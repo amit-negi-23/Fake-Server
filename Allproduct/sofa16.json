@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "sofa16",
+    "title": "Miranda Fabric 1 Seater Sofa In Camel Yellow Colour",
+    "brand": "Woodsworth",
+    "price": {
+        "sell": "21,499",
+        "mrp": "32,999"
+    },
+    "discount": {
+        "price": "₹11,500",
+        "percent": "(35% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/i/494x544/miranda-fabric-1-seater-sofa-in-camel-yellow-colour-miranda-fabric-1-seater-sofa-in-camel-yellow-col-ngl5cc.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 538 Extra Pepperfry Credits (Worth ₹538))",
+    "shipping": "Express Shipping in 1 day"
+}

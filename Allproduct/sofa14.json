@@ -1,0 +1,19 @@
+{
+    "id": 14,
+    "productId": "sofa14",
+    "title": "Penza Leatherette 1 Seater Sofa In Grey Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "30,499",
+        "mrp": "43,999"
+    },
+    "discount": {
+        "price": "₹13,500",
+        "percent": "(31% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/494x544/penza-leatherette-1-seater-sofa-in-grey-colour-penza-leatherette-1-seater-sofa-in-grey-colour-vy5qzd.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 763 Extra Pepperfry Credits (Worth ₹763)",
+    "shipping": "Express Shipping in 1 day"
+}

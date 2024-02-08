@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "sofa4",
+    "title": "Jack Velvet 2 Seater Sofa Pink Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "18,674",
+        "mrp": "31,528"
+    },
+    "discount": {
+        "price": "₹12,854",
+        "percent": "(41% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/j/a/494x544/jack-velvet-2-seater-sofa-pink-colour-jack-velvet-2-seater-sofa-pink-colour-84voa7.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 440 Extra Pepperfry Credits (Worth ₹440)",
+    "shipping": "Express Shipping in 1 day"
+}

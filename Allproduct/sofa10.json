@@ -1,0 +1,19 @@
+{
+    "id": 10,
+    "productId": "sofa10",
+    "title": "Milano Fabric 2 Seater Sofa In Grey Colourr",
+    "brand": "Woodsworth",
+    "price": {
+        "sell": "42,999 ",
+        "mrp": "55,999"
+    },
+    "discount": {
+        "price": "₹13,000 ",
+        "percent": "(23% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/i/494x544/milano-fabric-2-seater-sofa-in-grey-colour-milano-fabric-2-seater-sofa-in-grey-colour-1mrten.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 1,075 Extra Pepperfry Credits (Worth ₹1,075)",
+    "shipping": "Express Shipping in 1 day"
+}

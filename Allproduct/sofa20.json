@@ -1,0 +1,19 @@
+{
+    "id": 20,
+    "productId": "sofa20",
+    "title": "Bali Fabric 3 Seater Sofa In Jeans Blue Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "18,799",
+        "mrp": "20,999"
+    },
+    "discount": {
+        "price": "₹2,200",
+        "percent": "(10% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bali-fabric-3-seater-sofa-in-jeans-blue-colour-bali-fabric-3-seater-sofa-in-jeans-blue-colour-hq2mso.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 376 Extra Pepperfry Credits (Worth ₹376)",
+    "shipping": "Express Shipping in 1 day"
+}

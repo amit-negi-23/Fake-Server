@@ -1,0 +1,19 @@
+{
+    "id": 23,
+    "productId": "sofa23",
+    "title": "Bali Velvet 1 Seater Sofa in Blue Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "11,199 ",
+        "mrp": "21,990"
+    },
+    "discount": {
+        "price": "₹10,791 ",
+        "percent": "(49% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bali-velvet-1-seater-sofa-in-blue-colour-bali-velvet-1-seater-sofa-in-blue-colour-5ihjqq.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 224 Extra Pepperfry Credits (Worth ₹224)",
+    "shipping": "Express Shipping in 1 day"
+}

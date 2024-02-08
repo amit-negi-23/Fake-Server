@@ -1,0 +1,19 @@
+{
+    "id": 21,
+    "productId": "sofa21",
+    "title": "Enchant Fabric 1 Seater Sofa In Imperial Green Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "15,799 ",
+        "mrp": "36,999"
+    },
+    "discount": {
+        "price": "₹21,200",
+        "percent": "(57% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/e/n/494x544/enchant-fabric-1-seater-in-imperial-green-colour-enchant-fabric-1-seater-in-imperial-green-colour-xxtbay.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 316 Extra Pepperfry Credits (Worth ₹316)",
+    "shipping": "Express Shipping in 1 day"
+}

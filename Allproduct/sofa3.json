@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "sofa3",
+    "title": "Bonito Velvet 3 Seater Sofa in Beige Colour",
+    "brand": "Casacraft",
+    "price": {
+        "sell": "35,499",
+        "mrp": "43,999"
+    },
+    "discount": {
+        "price": "₹8,500 ",
+        "percent": "(19% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/bonito-velvet-3-seater-sofa-in-beige-colour-bonito-velvet-3-seater-sofa-in-beige-colour-7qljfz.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 836 Extra Pepperfry Credits (Worth ₹836)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 25,
+    "productId": "sofa25",
+    "title": "Eugene Fabric 3 Seater Sofa In Blue Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "43,999",
+        "mrp": "56,999"
+    },
+    "discount": {
+        "price": "₹13,000",
+        "percent": "(23% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/e/u/494x544/eugene-fabric-3-seater-sofa-in-blue-colour-eugene-fabric-3-seater-sofa-in-blue-colour-0vpg2e.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 1,100 Extra Pepperfry Credits (Worth ₹1,100)",
+    "shipping": "Express Shipping in 1 day"
+}

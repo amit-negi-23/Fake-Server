@@ -1,0 +1,19 @@
+{
+    "id": 28,
+    "productId": "sofa28",
+    "title": "Java Velvet 1 Seater Sofa In Grey Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "12,199",
+        "mrp": "22,900"
+    },
+    "discount": {
+        "price": "₹10,701",
+        "percent": "(47% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/j/a/494x544/java-velvet-1-seater-sofa-in-grey-colour-java-velvet-1-seater-sofa-in-grey-colour-n3repy.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 244 Extra Pepperfry Credits (Worth ₹244)",
+    "shipping": "Express Shipping in 1 day"
+}

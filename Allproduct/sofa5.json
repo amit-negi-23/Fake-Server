@@ -1,0 +1,19 @@
+{
+    "id": 5,
+    "productId": "sofa5",
+    "title": "Bali Fabric 1 Seater Sofa In Imperal Green Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "11,199",
+        "mrp": "15,999"
+    },
+    "discount": {
+        "price": "₹4,800",
+        "percent": "(30% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bali-fabric-1-seater-sofa-in-imperal-green-colour-bali-fabric-1-seater-sofa-in-imperal-green-colour-qj9qde.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 224 Extra Pepperfry Credits (Worth ₹224)",
+    "shipping": "Express Shipping in 1 day"
+}

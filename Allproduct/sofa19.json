@@ -1,0 +1,19 @@
+{
+    "id": 19,
+    "productId": "sofa19",
+    "title": "Stuttgart Fabric 1 Seater Sofa in Navy Blue Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "6,750 ",
+        "mrp": "13,899"
+    },
+    "discount": {
+        "price": "₹7,149 ",
+        "percent": "(51% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/stuttgart-fabric-1-seater-sofa-in-navy-blue-colour-stuttgart-fabric-1-seater-sofa-in-navy-blue-colou-rdrwoa.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 135 Extra Pepperfry Credits (Worth ₹135)",
+    "shipping": "Express Shipping in 1 day"
+}

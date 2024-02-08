@@ -1,0 +1,19 @@
+{
+    "id": 27,
+    "productId": "sofa27",
+    "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "10,899",
+        "mrp": "15,999"
+    },
+    "discount": {
+        "price": "₹5,100",
+        "percent": "(32% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/t/r/494x544/tropez-sheesham-wood-2-seater-sofa-in-provincial-teak-finish-tropez-sheesham-wood-2-seater-sofa-in-p-sb4wih.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+    "shipping": "Express Shipping in 1 day"
+}

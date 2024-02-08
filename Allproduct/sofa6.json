@@ -1,0 +1,19 @@
+{
+    "id": 6,
+    "productId": "sofa6",
+    "title": "Hairo Velvet 1 Seater Sofa In Beige Colour",
+    "brand": "Casacraft ",
+    "price": {
+        "sell": "30,499",
+        "mrp": "40,999"
+    },
+    "discount": {
+        "price": "₹10,500",
+        "percent": "(26% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/hairo-velvet-1-seater-sofa-in-beige-colour-hairo-velvet-1-seater-sofa-in-beige-colour-d26ztj.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 763 Extra Pepperfry Credits (Worth ₹763)",
+    "shipping": "Express Shipping in 1 day"
+}

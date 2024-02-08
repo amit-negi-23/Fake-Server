@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "sofa2",
+    "title": "Fidel Fabric 2 Seater Sofa In Slate Grey Colour",
+    "brand": "Casacraft",
+    "price": {
+        "sell": "34,499",
+        "mrp": "46,999"
+    },
+    "discount": {
+        "price": "₹12,500 ",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fidel-2-seater-sofa-in-slate-grey-colour-by-casacraft-fidel-2-seater-sofa-in-slate-grey-colour-by-ca-iucoyk.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹863)",
+    "shipping": "Ships in 7 days"
+}

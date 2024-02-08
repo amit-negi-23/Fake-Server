@@ -1,0 +1,19 @@
+{
+    "id": 11,
+    "productId": "sofa11",
+    "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "10,899",
+        "mrp": "15,999"
+    },
+    "discount": {
+        "price": "₹5,100",
+        "percent": "(32% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/i/494x544/miceli-leather-3-seater-sofa-in-brown-finish-miceli-leather-3-seater-sofa-in-brown-finish-3p6naw.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+    "shipping": "Express Shipping in 1 day"
+}

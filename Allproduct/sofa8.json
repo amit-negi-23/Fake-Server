@@ -1,0 +1,19 @@
+{
+    "id": 8,
+    "productId": "sofa8",
+    "title": "Alaine Fabric 1 Seater Sofa In Garnet Red Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "27,999",
+        "mrp": "₹38,999"
+    },
+    "discount": {
+        "price": "₹11,000 ",
+        "percent": "(28% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alaine-fabric-1-seater-sofa-in-garnet-red-colour-alaine-fabric-1-seater-sofa-in-garnet-red-colour-6ykqko.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 700 Extra Pepperfry Credits (Worth ₹700)",
+    "shipping": "Express Shipping in 1 day"
+}

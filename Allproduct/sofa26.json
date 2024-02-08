@@ -1,0 +1,19 @@
+{
+    "id": 26,
+    "productId": "sofa26",
+    "title": "Enchant Fabric 2 Seater Sofa In Grey Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "21,199",
+        "mrp": "49,999"
+    },
+    "discount": {
+        "price": "₹28,800",
+        "percent": "(58% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/e/n/494x544/enchant-fabric-2-seater-sofa-in-grey-colour-enchant-fabric-2-seater-sofa-in-grey-colour-x94wwn.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 424 Extra Pepperfry Credits (Worth ₹424)",
+    "shipping": "Express Shipping in 1 day"
+}

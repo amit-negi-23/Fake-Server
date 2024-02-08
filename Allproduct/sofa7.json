@@ -1,0 +1,19 @@
+{
+    "id": 7,
+    "productId": "sofa7",
+    "title": "Alaine Fabric 1 Seater Sofa In Navy Blue Colour",
+    "brand": "Casacraft",
+    "price": {
+        "sell": "27,999",
+        "mrp": "38,999"
+    },
+    "discount": {
+        "price": "₹11,000",
+        "percent": "(28% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alaine-fabric-1-seater-sofa-in-navy-blue-colour-alaine-fabric-1-seater-sofa-in-navy-blue-colour-2tgfxz.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 700 Extra Pepperfry Credits (Worth ₹700)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 15,
+    "productId": "sofa15",
+    "title": "Diego Fabric 2 Seater Sofa In Ash Grey Colour",
+    "brand": "Woodsworth",
+    "price": {
+        "sell": "40,499",
+        "mrp": "51,999"
+    },
+    "discount": {
+        "price": "₹11,500",
+        "percent": "(22% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/d/i/494x544/diego-fabric-2-seater-sofa-in-ash-grey-colour-diego-fabric-2-seater-sofa-in-ash-grey-colour-vo2f7o.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 1,013 Extra Pepperfry Credits (Worth ₹1,013)",
+    "shipping": "Express Shipping in 1 day"
+}

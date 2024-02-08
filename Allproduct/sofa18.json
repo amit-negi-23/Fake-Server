@@ -1,0 +1,19 @@
+{
+    "id": 18,
+    "productId": "sofa18",
+    "title": "Amanda Fabric 2 Seater Sofa In Charcoal Grey Colour",
+    "brand": "Casacraft",
+    "price": {
+        "sell": "38,999 ",
+        "mrp": "51,999"
+    },
+    "discount": {
+        "price": "₹13,000 ",
+        "percent": "(25% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/m/494x544/amanda-fabric-2-seater-sofa-in-charcoal-grey-colour-amanda-fabric-2-seater-sofa-in-charcoal-grey-col-dc2yfy.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+    "shipping": "Express Shipping in 1 day"
+}
