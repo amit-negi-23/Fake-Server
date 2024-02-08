@@ -1,0 +1,19 @@
+{
+    "id": 14,
+    "productId": "barfurniture14",
+    "title": "Bayern Metal Bar Stool In Black Colour",
+    "brand": "@home",
+    "price": {
+        "sell": "3,487",
+        "mrp": "4,900"
+    },
+    "discount": {
+        "price": "₹1,413",
+        "percent": "(29% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bayern-metal-bar-stool-in-black-colour-bayern-metal-bar-stool-in-black-colour-ydqeul.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 70 Extra Pepperfry Credits (Worth ₹70)",
+    "shipping": "Ships in 5 days"
+}

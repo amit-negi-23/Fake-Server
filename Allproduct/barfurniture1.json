@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "barfurniture1",
+    "title": "Adler Metal Bar Stool In Black Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "7,499",
+        "mrp": "10,999"
+    },
+    "discount": {
+        "price": "₹3,500",
+        "percent": "(32% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/d/494x544/adler-metal-bar-stool-in-black-colour-adler-metal-bar-stool-in-black-colour-1brau0.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+    "shipping": ""
+}

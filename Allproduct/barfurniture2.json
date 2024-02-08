@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "barfurniture2",
+    "title": "Siramika Sheesham Wood Bar Cabinet In Honey Oak Finish",
+    "brand": "Mudramark from Pepperfry",
+    "price": {
+        "sell": "53,999",
+        "mrp": "77,999"
+    },
+    "discount": {
+        "price": "₹24,000",
+        "percent": "(31% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/i/494x544/siramika-sheesham-wood-bar-cabinet-in-honey-oak-finish-by-mudramark-siramika-sheesham-wood-bar-cabin-54sa4f.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 1,350 Extra Pepperfry Credits (Worth ₹1,350)",
+    "shipping": ""
+}

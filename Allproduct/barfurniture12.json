@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "barfurniture12",
+    "title": " Wink Leatherette Bar Stool In Brown Colour With Swivel",
+    "brand": "Furniturstation",
+    "price": {
+        "sell": "7,099",
+        "mrp": "10,999"
+    },
+    "discount": {
+        "price": "₹3,900",
+        "percent": "(35% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/w/i/494x544/wink-swivel-bar-stool-inbrown-colour-by-furniturstation-wink-swivel-bar-stool-inbrown-colour-by-furn-kbonza.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 142 Extra Pepperfry Credits (Worth ₹142)",
+    "shipping": "Express Shipping in 1 day"
+}

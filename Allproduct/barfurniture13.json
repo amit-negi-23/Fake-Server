@@ -1,0 +1,19 @@
+{
+    "id": 13,
+    "productId": "barfurniture13",
+    "title": "Harrington Sheesham Wood Tall Bar Stool In Provincial Teak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "5,999",
+        "mrp": "8,999"
+    },
+    "discount": {
+        "price": "₹3,000",
+        "percent": "(33% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/harrington-solid-wood-bar-stool-in-provincial-teak-finish---woodsworth-by-pepperfry-harrington-solid-ryd4t3.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 150 Extra Pepperfry Credits (Worth ₹150)",
+    "shipping": ""
+}

@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "barfurniture4",
+    "title": "Indus Leatherette Bar Stool In Brown Colour With Swivel",
+    "brand": "Furniturstation",
+    "price": {
+        "sell": "5,599",
+        "mrp": "10,999"
+    },
+    "discount": {
+        "price": "₹5,400",
+        "percent": "(49% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/i/n/494x544/indus-leatherette-bar-stool-in-brown-colour-with-swivel-indus-leatherette-bar-stool-in-brown-colour--dot4gj.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 112 Extra Pepperfry Credits (Worth ₹112)",
+    "shipping": ""
+}

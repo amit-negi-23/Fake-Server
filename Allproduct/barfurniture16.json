@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "barfurniture16",
+    "title": "Harrington Sheesham Wood Tall Bar Stool In Rustic Teak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "5,999",
+        "mrp": "8,999"
+    },
+    "discount": {
+        "price": "₹3,000",
+        "percent": "(33% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/harrington-sheesham-wood-bar-stool-in-rustic-teak-finish-by-woodsworth-harrington-sheesham-wood-bar--3y6s9l.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 150 Extra Pepperfry Credits (Worth ₹150)",
+    "shipping": ""
+}

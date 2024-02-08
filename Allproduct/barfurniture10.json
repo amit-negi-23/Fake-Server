@@ -1,0 +1,19 @@
+{
+    "id": 10,
+    "productId": "barfurniture10",
+    "title": " Iha Sheesham Wood Bar Stool In Provincial Teak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "9,499",
+        "mrp": "12,999"
+    },
+    "discount": {
+        "price": "₹3,500",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/i/h/494x544/iha-sheesham-wood-bar-stool-in-provincial-teak-finish-iha-sheesham-wood-bar-stool-in-provincial-teak-ajj3qs.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 238 Extra Pepperfry Credits (Worth ₹238)",
+    "shipping": ""
+}

@@ -1,0 +1,19 @@
+{
+    "id": 17,
+    "productId": "barfurniture17",
+    "title": "Bleez Leatherette Bar Stool In Yellow Colour With Swivel",
+    "brand": "Chairwale",
+    "price": {
+        "sell": "7,899",
+        "mrp": "8,399"
+    },
+    "discount": {
+        "price": "₹500 ",
+        "percent": "(6% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/bleez-leatherette-bar-stool-in-yellow-colour-with-swivel-bleez-leatherette-bar-stool-in-yellow-colou-cputeh.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 158 Extra Pepperfry Credits (Worth ₹158)",
+    "shipping": "Express Shipping in 1 day"
+}

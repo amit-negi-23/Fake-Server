@@ -1,0 +1,19 @@
+{
+    "id": 8,
+    "productId": "barfurniture8",
+    "title": "Avian Sheesham Wood Bar Trolley in Honey Oak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "16,999",
+        "mrp": "22,999"
+    },
+    "discount": {
+        "price": "₹6,000 ",
+        "percent": "(26% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avian-sheesham-wood-bar-trolley-in-honey-oak-finish-avian-sheesham-wood-bar-trolley-in-honey-oak-fin-kqavbu.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 425 Extra Pepperfry Credits (Worth ₹425)",
+    "shipping": ""
+}
