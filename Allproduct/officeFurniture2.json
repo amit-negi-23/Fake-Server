@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "officeFurniture2",
+    "title": "Hanoi Mid Back Fabric Office Chair in Black Color",
+    "brand": "Nilkamal",
+    "price": {
+        "sell": "4,462 ",
+        "mrp": "8,500"
+    },
+    "discount": {
+        "price": "₹4,038 ",
+        "percent": "(48% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/hanoi-mid-back-fabric-office-chair-in-black-color-by-nilkamal-hanoi-mid-back-fabric-office-chair-in--rvz4c1.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 93 Extra Pepperfry Credits (Worth ₹93)",
+    "shipping": "Express Shipping in 1 day"
+}

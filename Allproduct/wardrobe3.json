@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "wardrobe3",
+    "title": " Tychee 3 Door Wardrobe in Columbian Walnut Finish with Lock",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "16,599 ",
+        "mrp": "21,579"
+    },
+    "discount": {
+        "price": "₹4,980 ",
+        "percent": "(23% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/494x544/peony-3-door-wardrobe-in-columbian-walnut-colour-peony-3-door-wardrobe-in-columbian-walnut-colour-9yholn.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 415 Extra Pepperfry Credits (Worth ₹415)",
+    "shipping": "Express Shipping in 1 day"
+}

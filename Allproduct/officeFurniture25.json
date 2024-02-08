@@ -1,0 +1,19 @@
+{
+    "id": 25,
+    "productId": "officeFurniture25",
+    "title": "Sorrento Leatherette Executive Chair in Black Colour",
+    "brand": "Beaatho",
+    "price": {
+        "sell": "7,749",
+        "mrp": "14,490"
+    },
+    "discount": {
+        "price": "₹6,741",
+        "percent": "(47% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/o/494x544/sorrento-ergonomic-high-back-chair-in-black-colour-by-beaatho-sorrento-ergonomic-high-back-chair-in--1cgwox.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 155 Extra Pepperfry Credits (Worth ₹155)",
+    "shipping": "Ships in 3 days"
+}

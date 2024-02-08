@@ -1,0 +1,19 @@
+{
+    "id": 8,
+    "productId": "officeFurniture8",
+    "title": "Tauras Lite Breathable MeshHigh Back Ergonomic Chair in Grey Colour",
+    "brand": "CELLBELL",
+    "price": {
+        "sell": "5,999 ",
+        "mrp": "11,999"
+    },
+    "discount": {
+        "price": "₹6,000",
+        "percent": "(50% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/tauras-lite-breathable-meshhigh-back-ergonomic-chair-in-grey-colour-tauras-lite-breathable-meshhigh--pfei6p.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+    "shipping": ""
+}

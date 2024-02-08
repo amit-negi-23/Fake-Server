@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "officeFurniture12",
+    "title": "New Breathable Mesh Ergonomic Chair in Black Colour with Headrest",
+    "brand": "Green Soul",
+    "price": {
+        "sell": "8,027",
+        "mrp": "19,310"
+    },
+    "discount": {
+        "price": "₹11,283",
+        "percent": "(58% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/n/e/494x544/new-york-high-back-ergonomic-chair-with-headrest-in-black-colour-by-green-soul-new-york-high-back-er-dzkdzn.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 169 Extra Pepperfry Credits (Worth ₹169)",
+    "shipping": "Ships in 4 days"
+}

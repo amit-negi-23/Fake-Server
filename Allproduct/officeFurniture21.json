@@ -1,0 +1,19 @@
+{
+    "id": 21,
+    "productId": "officeFurniture21",
+    "title": "Tauras Breathable Mesh Ergonomic Chair in Black Colour",
+    "brand": "CELLBELL",
+    "price": {
+        "sell": "7,999",
+        "mrp": "12,999"
+    },
+    "discount": {
+        "price": "₹5,000 ",
+        "percent": "(38% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/tauras-high-back-breathable-mesh-ergonomic-chair-in-black-colour-tauras-high-back-breathable-mesh-er-edzhcv.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 160 Extra Pepperfry Credits (Worth ₹160)",
+    "shipping": "Ships in 3 days"
+}

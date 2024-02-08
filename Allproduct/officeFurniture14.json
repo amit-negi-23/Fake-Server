@@ -1,0 +1,19 @@
+{
+    "id": 14,
+    "productId": "officeFurniture14",
+    "title": "Desire Breathable Mesh Ergonomic Chair in Grey Colour",
+    "brand": "CELLBELL",
+    "price": {
+        "sell": "3,999 ",
+        "mrp": "9,999"
+    },
+    "discount": {
+        "price": "₹6,000 ",
+        "percent": "(60% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/d/e/494x544/desire-breathable-mesh-ergonomic-chair-in-grey-colour-desire-breathable-mesh-ergonomic-chair-in-grey-rf7xf4.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 80 Extra Pepperfry Credits (Worth ₹80)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 20,
+    "productId": "officeFurniture20",
+    "title": "Seoul-X Fabric Ergonomic Chair in Smart Black Colour",
+    "brand": "Green Soul",
+    "price": {
+        "sell": "3,879",
+        "mrp": "5,980"
+    },
+    "discount": {
+        "price": "₹2,101",
+        "percent": "(35% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/e/494x544/seoul-x-fabric-ergonomic-chair-in-smart-black-colour-seoul-x-fabric-ergonomic-chair-in-smart-black-c-kvphyl.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 80 Extra Pepperfry Credits (Worth ₹80)",
+    "shipping": "Express Shipping in 1 day"
+}

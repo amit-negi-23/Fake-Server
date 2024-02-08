@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "wardrobe12",
+    "title": "Larry 3 Door Wardrobe in High Gloss Ivory & Wenge Finish",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "26,999",
+        "mrp": "33,999"
+    },
+    "discount": {
+        "price": "₹7,000",
+        "percent": "(21% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/l/a/494x544/larry-3-door-wardrobe-in-white---wenge-finish-by-casacraft-larry-3-door-wardrobe-in-white---wenge-fi-nkgrfu.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 675 Extra Pepperfry Credits (Worth ₹675)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 8,
+    "productId": "wardrobe8",
+    "title": "Tychee 3 Door Wardrobe in Columbian Walnut Colour with Mirror & Lock",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "17,699",
+        "mrp": "23,009"
+    },
+    "discount": {
+        "price": "₹5,310",
+        "percent": "(23% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/494x544/peony-3-door-wardrobe-in-columbian-walnut-colour-with-mirror-peony-3-door-wardrobe-in-columbian-waln-ipofmk.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 443 Extra Pepperfry Credits (Worth ₹443)",
+    "shipping": "Express Shipping in 1 day"
+    
+}

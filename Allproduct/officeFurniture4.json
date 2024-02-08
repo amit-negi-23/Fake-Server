@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "officeFurniture4",
+    "title": "Atom Breathable Mesh Ergonomic Chair in Black Colour",
+    "brand": "Green Soul",
+    "price": {
+        "sell": "3,879 ",
+        "mrp": "5,990"
+    },
+    "discount": {
+        "price": "₹2,111 ",
+        "percent": "(35% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/t/494x544/atom-mid-back-ergonomic-chair-in-black-by-green-soul-atom-mid-back-ergonomic-chair-in-black-by-green-zckzsa.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 80 Extra Pepperfry Credits (Worth ₹80)",
+    "shipping": "Ships in 3 days"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 24,
+    "productId": "officeFurniture24",
+    "title": "Gruber Leatherette Executive Chair in Black Colour",
+    "brand": "Furniturstation",
+    "price": {
+        "sell": "9,299",
+        "mrp": "22,599"
+    },
+    "discount": {
+        "price": " ₹13,300",
+        "percent": "(59% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/g/r/494x544/gruber-iconic-chair-in-black-colour-by-furniturstation-gruber-iconic-chair-in-black-colour-by-furnit-cutybn.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 186 Extra Pepperfry Credits (Worth ₹186)",
+    "shipping": ""
+}

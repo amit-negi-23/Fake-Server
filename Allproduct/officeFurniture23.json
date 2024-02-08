@@ -1,0 +1,19 @@
+{
+    "id": 23,
+    "productId": "officeFurniture23",
+    "title": "Leno Fabric Ergonomic Chair in Black Colour",
+    "brand": "VOF",
+    "price": {
+        "sell": "3,962",
+        "mrp": "5,799"
+    },
+    "discount": {
+        "price": "₹1,837 ",
+        "percent": "(32% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/l/e/494x544/leno-fabric-ergonomic-chair-in-black-colour-leno-fabric-ergonomic-chair-in-black-colour-xej7ql.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 80 Extra Pepperfry Credits (Worth ₹80)",
+    "shipping": ""
+}

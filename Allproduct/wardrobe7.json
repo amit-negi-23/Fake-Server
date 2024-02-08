@@ -1,0 +1,19 @@
+{
+    "id": 7,
+    "productId": "wardrobe7",
+    "title": "Cabalina 4 Door Wardrobe In Natural Walnut Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "30,499",
+        "mrp": "41,999"
+    },
+    "discount": {
+        "price": "₹11,500",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/i/v/494x544/ivanka-4-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-4-door-wardrobe-in-natural-walnu-fo0arp.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 763 Extra Pepperfry Credits (Worth ₹763)",
+    "shipping": "Express Shipping in 1 day"
+}

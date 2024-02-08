@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "officeFurniture3",
+    "title": "Style Breathable Mesh Ergonomic Chair in Black Colour",
+    "brand": "VOF",
+    "price": {
+        "sell": "3,881 ",
+        "mrp": "4,999"
+    },
+    "discount": {
+        "price": "₹1,118 ",
+        "percent": "(22% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/style-breathable-mesh-ergonomic-chair-in-black-colour-style-breathable-mesh-ergonomic-chair-in-black-rglulo.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 87 Extra Pepperfry Credits (Worth ₹87)",
+    "shipping": "Express Shipping in 1 day"
+}

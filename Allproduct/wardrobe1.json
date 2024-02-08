@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "wardrobe1",
+    "title": "Amber 3 Door Wardrobe in Wenge Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "22,299",
+        "mrp": "30,999"
+    },
+    "discount": {
+        "price": "₹8,700 ",
+        "percent": "(28% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/m/494x544/amber-3-door-wardrobe-in-wenge-finish-amber-3-door-wardrobe-in-wenge-finish-bzukxl.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+    "shipping": "Express Shipping in 1 day"
+}

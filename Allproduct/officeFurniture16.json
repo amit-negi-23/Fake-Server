@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "officeFurniture16",
+    "title": "UV Breathable Mesh Ergonomic Chair in Black Colour",
+    "brand": "VOF",
+    "price": {
+        "sell": "3,946",
+        "mrp": " ₹4,999"
+    },
+    "discount": {
+        "price": " ₹1,053 ",
+        "percent": "(21% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/u/v/494x544/uv-mesh-office-chair-in-black-by-vof-uv-mesh-office-chair-in-black-by-vof-zs3npf.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 79 Extra Pepperfry Credits (Worth ₹79)",
+    "shipping": ""
+}

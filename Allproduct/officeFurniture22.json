@@ -1,0 +1,19 @@
+{
+    "id": 22,
+    "productId": "officeFurniture22",
+    "title": "Pebble Ergonomic Chair In Black Colour",
+    "brand": "Green Soul",
+    "price": {
+        "sell": "3,782",
+        "mrp": "7,990"
+    },
+    "discount": {
+        "price": "₹4,208",
+        "percent": "(53% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/t/494x544/atom-breathable-mesh-ergonomic-chair-in-black-colour-atom-breathable-mesh-ergonomic-chair-in-black-c-lgw00m.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 78 Extra Pepperfry Credits (Worth ₹78)",
+    "shipping": "Ships in 3 days"
+}

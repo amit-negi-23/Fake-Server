@@ -1,0 +1,19 @@
+{
+    "id": 6,
+    "productId": "officeFurniture6",
+    "title": "Oscar Leatherette Cantilever Chair in Black Colour",
+    "brand": "Tealkart",
+    "price": {
+        "sell": "5,799",
+        "mrp": "8,499"
+    },
+    "discount": {
+        "price": "₹2,700 ",
+        "percent": "(32% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/o/s/494x544/oscar-cantilever-chair-in-black-colour-by-teal-oscar-cantilever-chair-in-black-colour-by-teal-vzf8nd.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 116 Extra Pepperfry Credits (Worth ₹116)",
+    "shipping": "Ships in 3 days"
+}

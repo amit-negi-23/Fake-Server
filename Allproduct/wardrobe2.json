@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "wardrobe2",
+    "title": "Kosmo Lilly 6 Door Wardrobe in Kingston White & Sebastian Oak Finish with Mirror",
+    "brand": "Spacewood",
+    "price": {
+        "sell": "49,930",
+        "mrp": "97,645"
+    },
+    "discount": {
+        "price": "₹47,715 ",
+        "percent": "(49% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-lilly-6-door-wardrobe-in-kingston-white---sebastian-oak-finish-with-mirror-kosmo-lilly-6-door--sj0xdb.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 1,175 Extra Pepperfry Credits (Worth ₹1,175)",
+    "shipping": "Express Shipping in 1 day"
+}

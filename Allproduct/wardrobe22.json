@@ -1,0 +1,19 @@
+{
+    "id": 22,
+    "productId": "wardrobe22",
+    "title": "Kenzou 4 door Wardrobe in Walnut Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "13,999",
+        "mrp": "24,999"
+    },
+    "discount": {
+        "price": "₹11,000 ",
+        "percent": "(44% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/e/494x544/kenzou-4-door-wardrobe--in-walnut-finish-kenzou-4-door-wardrobe--in-walnut-finish-u7pkzu.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 350 Extra Pepperfry Credits (Worth ₹350)",
+    "shipping": "Express Shipping in 1 day"
+}

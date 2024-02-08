@@ -1,0 +1,19 @@
+{
+    "id": 13,
+    "productId": "officeFurniture13",
+    "title": "Iwami 3 Door File Cabinet in Cappuccino Finish With Door",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "2,999 ",
+        "mrp": "4,499"
+    },
+    "discount": {
+        "price": "₹1,500",
+        "percent": " (33% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/i/w/494x544/iwami-3-door-file-cabinet-in-light-cappuccino-colour-with-door-light-iwami-3-door-file-cabinet-in-li-koimbz.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 80 Extra Pepperfry Credits (Worth ₹80)",
+    "shipping": "Express Shipping in 1 day"
+}

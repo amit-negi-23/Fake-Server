@@ -1,0 +1,19 @@
+{
+    "id": 10,
+    "productId": "officeFurniture10",
+    "title": "Oscar High Back Ergonomic Chair in Grey & Black Colour",
+    "brand": "Star India",
+    "price": {
+        "sell": "11,898",
+        "mrp": "20,999"
+    },
+    "discount": {
+        "price": "₹9,101",
+        "percent": "(43% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/o/s/494x544/oscar-high-back-ergonomic-chair-in-grey---black-colour-oscar-high-back-ergonomic-chair-in-grey---bla-cuiadl.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 238 Extra Pepperfry Credits (Worth ₹238)",
+    "shipping": "Ships in 3 days"
+}
