@@ -107,6 +107,7 @@
     "sofas": [
         {
             "id": 1,
+            "productId": "sofa1",
             "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
