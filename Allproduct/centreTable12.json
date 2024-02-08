@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "centreTable12",
+    "title": " Marrakech Coffee Table in Black & White Colour",
+    "brand": "bluewud",
+    "price": {
+        "sell": "2,999 ",
+        "mrp": "3,299"
+    },
+    "discount": {
+        "price": "₹300 ",
+        "percent": "(9% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marrakech-coffee-table-in-black---white-colour-marrakech-coffee-table-in-black---white-colour-susiyn.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 60 Extra Pepperfry Credits (Worth ₹60)",
+    "shipping": "Express Shipping in 1 day"
+}

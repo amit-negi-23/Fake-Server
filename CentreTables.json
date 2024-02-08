@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "productId": "centreTable1",
         "title": "Kiosk Coffee Table in Choco Walnut Colour",
         "brand": "A GLOBIA CREATIONS",
         "price": {
@@ -19,6 +20,7 @@
     },
     {
         "id": 2,
+        "productId": "centreTable2",
         "title": "Segur Sheesham Wood Nesting Coffee Table Set in Provincial Teak Finish With Cushioned Stools",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -37,6 +39,7 @@
     },
     {
         "id": 3,
+        "productId": "centreTable3",
         "title": "Peep Sheesham Wood Coffee Table in Provincial Teak Finish",
         "brand": "Sleepyhead",
         "price": {
@@ -55,6 +58,7 @@
     },
     {
         "id": 4,
+        "productId": "centreTable4",
         "title": "Kiosk Coffee Table In Frosty White Colour",
         "brand": "A GLOBIA CREATIONS",
         "price": {
@@ -73,6 +77,7 @@
     },
     {
         "id": 5,
+        "productId": "centreTable5",
         "title": " Kosmo Harmony Coffee Table in Vermount Woodpore Finish",
         "brand": "Spacewood",
         "price": {
@@ -92,6 +97,7 @@
     },
     {
         "id": 6,
+        "productId": "centreTable6",
         "title": "Apollo Center Table in Sheesham Finish",
         "brand": "Spacewood",
         "price": {
@@ -110,6 +116,7 @@
     },
     {
         "id": 7,
+        "productId": "centreTable7",
         "title": "Harpy Metal Nesting Coffee Table (Set of 2) in White & Gold Finish",
         "brand": "Redwud",
         "price": {
@@ -128,6 +135,7 @@
     },
     {
         "id": 8,
+        "productId": "centreTable8",
         "title": "Stalley Sheesham Wood Coffee Table Set in Multicolor & Scratch Resistant Honey Oak Finish With 2 Chairs",
         "brand": "Amberville from Pepperfry",
         "price": {
@@ -146,6 +154,7 @@
     },
     {
         "id": 9,
+        "productId": "centreTable9",
         "title": "Kosmo Harmony Coffee Table in Natural Teak Finish",
         "brand": "Spacewood",
         "price": {
@@ -164,6 +173,7 @@
     },
     {
         "id": 10,
+        "productId": "centreTable10",
         "title": "Max Coffee Table in Choco Walnut Colour",
         "brand": "A GLOBIA CREATIONS",
         "price": {
@@ -182,6 +192,7 @@
     },
     {
         "id": 11,
+        "productId": "centreTable11",
         "title": "Nuevo Sheesham Wood Nesting Coffee Table Set in Scratch Resistant Honey Oak Finish With Cushioned Stools",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -200,6 +211,7 @@
     },
     {
         "id": 12,
+        "productId": "centreTable12",
         "title": " Marrakech Coffee Table in Black & White Colour",
         "brand": "bluewud",
         "price": {
@@ -218,6 +230,7 @@
     },
     {
         "id": 13,
+        "productId": "centreTable13",
         "title": "Stalley Sheesham Wood Coffee Table Set in Floral & Scratch Resistant Honey Oak Finish With 2 Chairs",
         "brand": "Amberville from Pepperfry",
         "price": {
@@ -236,6 +249,7 @@
     },
     {
         "id": 14,
+        "productId": "centreTable14",
         "title": "Anitz Sheesham Wood Nesting Coffee Table Set in Scratch Resistant Provincial Teak Finish With Stools",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -254,6 +268,7 @@
     },
     {
         "id": 15,
+        "productId": "centreTable15",
         "title": "Denver Metal Nesting Coffee Table (Set of 2) in White & Gold Finish",
         "brand": "Redwud",
         "price": {
@@ -272,6 +287,7 @@
     },
     {
         "id": 16,
+        "productId": "centreTable16",
         "title": "Tamaki Coffee Table in Walnut Finish",
         "brand": "Mintwud from Pepperfry",
         "price": {
@@ -290,6 +306,7 @@
     },
     {
         "id": 17,
+        "productId": "centreTable17",
         "title": "Denver Metal Nesting Coffee Table Set in Gold Finish with Black & White Marble Top",
         "brand": "Redwud",
         "price": {
@@ -308,6 +325,7 @@
     },
     {
         "id": 18,
+        "productId": "centreTable18",
         "title": "Segur Sheesham Wood Coffee Table In Provincial Teak",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -326,6 +344,7 @@
     },
     {
         "id": 19,
+        "productId": "centreTable19",
         "title": "Cervus Centre Table in Wenge Finish",
         "brand": "Crystal Furnitech",
         "price": {
@@ -344,6 +363,7 @@
     },
     {
         "id": 20,
+        "productId": "centreTable20",
         "title": "Braavos Coffee Table In Sawcut Dark Finish",
         "brand": "Outkraft",
         "price": {
@@ -362,6 +382,7 @@
     },
     {
         "id": 21,
+        "productId": "centreTable21",
         "title": "Harpy Metal Nesting Coffee Table Set in Gold Finish with White & Black Marble Top",
         "brand": "Redwud",
         "price": {
@@ -380,6 +401,7 @@
     },
     {
         "id": 22,
+        "productId": "centreTable22",
         "title": " Declove Coffee Table In Walnut & White Finish",
         "brand": "bluewud",
         "price": {
@@ -398,6 +420,7 @@
     },
     {
         "id": 23,
+        "productId": "centreTable23",
         "title": "Max Coffee Table in White & Exotic Teak Finish",
         "brand": "A GLOBIA CREATIONS",
         "price": {
@@ -416,6 +439,7 @@
     },
     {
         "id": 24,
+        "productId": "centreTable24",
         "title": "Kelty Sheesham Wood Nesting Coffee Table Set in Scratch Resistant Rustic Teak Finish With Cushioned Stools",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -434,6 +458,7 @@
     },
     {
         "id": 25,
+        "productId": "centreTable25",
         "title": "Airavana Sheesham Wood Trunk in Scratch Resistant Provincial Teak Finish",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -452,6 +477,7 @@
     },
     {
         "id": 26,
+        "productId": "centreTable26",
         "title": "Bonita Metal Coffee Table In White Colour With Marble Top",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -470,6 +496,7 @@
     },
     {
         "id": 27,
+        "productId": "centreTable27",
         "title": " Sheffield Solid Wood Nesting Coffee Table Set in Honey Oak Finish With Cushioned Stools",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -488,6 +515,7 @@
     },
     {
         "id": 28,
+        "productId": "centreTable28",
         "title": " Avian Sheesham Wood Coffee Table In Scratch Resistant Provincial Teak Finish With Shelf",
         "brand": "Woodsworth from Pepperfry",
         "price": {

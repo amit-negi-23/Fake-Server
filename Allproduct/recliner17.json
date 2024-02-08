@@ -1,0 +1,19 @@
+{
+    "id": 17,
+    "productId": "recliner17",
+    "title": "Valencia Fabric 1 Seater Manual Recliner in Warm Grey Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "33,499",
+        "mrp": "45,999"
+    },
+    "discount": {
+        "price": "₹12,500 ",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/v/a/494x544/valencia-fabric-1-seater-manual-recliner-in-warm-grey-colour-valencia-fabric-1-seater-manual-recline-y0iwep.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
+    "shipping": ""
+}

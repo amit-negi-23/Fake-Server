@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "recliner12",
+    "title": " Sarajevo Velvet Fabric 1 Seater Manual Recliner in Grey Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "32,499",
+        "mrp": "43,999"
+    },
+    "discount": {
+        "price": "₹11,500",
+        "percent": "(26% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/a/494x544/sarajevo-velvet-fabric-1-seater-manual-recliner-in-grey-colour-sarajevo-velvet-fabric-1-seater-manua-qc80ee.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 813 Extra Pepperfry Credits (Worth ₹813)",
+    "shipping": ""
+}

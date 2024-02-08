@@ -1,0 +1,20 @@
+{
+    "id": 5,
+    "productId": "centreTable5",
+    "title": " Kosmo Harmony Coffee Table in Vermount Woodpore Finish",
+    "brand": "Spacewood",
+    "price": {
+        "sell": "3,063",
+        "mrp": "7,599"
+    },
+    "discount": {
+        "price": "₹4,536 ",
+        "percent": "(60% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-harmony-coffee-table-in-vermount-melamine-finish-kosmo-harmony-coffee-table-in-vermount-melami-y6vtg1.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 73 Extra Pepperfry Credits (Worth ₹73)",
+    "shipping": "Express Shipping in 1 day"
+   
+}

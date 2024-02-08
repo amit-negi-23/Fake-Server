@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "productId": "recliner1",
         "title": "Vintter Leatherette 1 Seater Motorized Recliner in Black & Brown Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -19,6 +20,7 @@
     },
     {
         "id": 2,
+        "productId": "recliner2",
         "title": "Valencia Leatherette 1 Seater Motorized Recliner in Dark Chocolate Brown Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -37,6 +39,7 @@
     },
     {
         "id": 3,
+        "productId": "recliner3",
         "title": "Avalon Fabric Manual 1 Seater Recliner In Grey Colour",
         "brand": "Duroflex",
         "price": {
@@ -55,6 +58,7 @@
     },
     {
         "id": 4,
+        "productId": "recliner4",
         "title": " Casey Fabric 1 Seater Manual Recliner In Brown Colour",
         "brand": "Bantia Furniture",
         "price": {
@@ -73,6 +77,7 @@
     },
     {
         "id": 5,
+        "productId": "recliner5",
         "title": "Valencia Leatherette 1 Seater Manual Recliner in Dark Chocolate Brown Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -92,6 +97,7 @@
     },
     {
         "id": 6,
+        "productId": "recliner6",
         "title": " Agueda Fabric 1 Seater Manual Recliner in Blue Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -111,6 +117,7 @@
     },
     {
         "id": 7,
+        "productId": "recliner7",
         "title": "Avalon Fabric Manual 1 Seater Rocker Recliner In Graphite Grey Colour With Swivel",
         "brand": "Duroflex",
         "price": {
@@ -130,6 +137,7 @@
     },
     {
         "id": 8,
+        "productId": "recliner8",
         "title": "Cami Leatherette 1 Seater Manual Recliner in Dark brown Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -149,6 +157,7 @@
     },
     {
         "id": 9,
+        "productId": "recliner9",
         "title": " Levy Velvet Fabric 1 Seater Manual Recliner in Grey Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -168,6 +177,7 @@
     },
     {
         "id": 10,
+        "productId": "recliner10",
         "title": "Avalon Fabric Manual 1 Seater Recliner In Desert Orange Colour",
         "brand": "Duroflex",
         "price": {
@@ -186,6 +196,7 @@
     },
     {
         "id": 11,
+        "productId": "recliner11",
         "title": "Matt Fabric Manual 1 Seater Recliner In Blue Colour",
         "brand": "@home",
         "price": {
@@ -204,6 +215,7 @@
     },
     {
         "id": 12,
+        "productId": "recliner12",
         "title": " Sarajevo Velvet Fabric 1 Seater Manual Recliner in Grey Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -222,6 +234,7 @@
     },
     {
         "id": 13,
+        "productId": "recliner13",
         "title": "Bakewell Leather 2 Seater Motorized Recliner In Brown Colour",
         "brand": "@home",
         "price": {
@@ -240,6 +253,7 @@
     },
     {
         "id": 14,
+        "productId": "recliner14",
         "title": " Avalon Fabric Manual 1 Seater Recliner In Brown Colour",
         "brand": "Duroflex",
         "price": {
@@ -258,6 +272,7 @@
     },
     {
         "id": 15,
+        "productId": "recliner15",
         "title": "Carerra Leatherette 1 Seater Manual Recliner in Beige Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -276,6 +291,7 @@
     },
     {
         "id": 16,
+        "productId": "recliner16",
         "title": " Avalon Fabric Motorized 1 Seater Recliner In Grey Colour",
         "brand": "Duroflex",
         "price": {
@@ -294,6 +310,7 @@
     },
     {
         "id": 17,
+        "productId": "recliner17",
         "title": "Valencia Fabric 1 Seater Manual Recliner in Warm Grey Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -312,6 +329,7 @@
     },
     {
         "id": 18,
+        "productId": "recliner18",
         "title": "Avalon Fabric Manual 1 Seater Recliner In Saddle Brown Colour",
         "brand": "Duroflex",
         "price": {
@@ -330,6 +348,7 @@
     },
     {
         "id": 19,
+        "productId": "recliner19",
         "title": "Avalon Fabric Manual 1 Seater Recliner In Beige Colour",
         "brand": "Duroflex",
         "price": {
@@ -348,6 +367,7 @@
     },
     {
         "id": 20,
+        "productId": "recliner20",
         "title": "Avalon RRR Fabric 1 Seater Manual Recliner In Crimson Red Colour With Rocker & Swivel",
         "brand": "Duroflex",
         "price": {
@@ -366,6 +386,7 @@
     },
     {
         "id": 21,
+        "productId": "recliner21",
         "title": "Cami Leatherette 1 Seater Manual Recliner in Beige Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -384,6 +405,7 @@
     },
     {
         "id": 22,
+        "productId": "recliner22",
         "title": " Olhao Leatherette 2 Seater Motorized Recliner in Charcoal Grey Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -402,6 +424,7 @@
     },
     {
         "id": 23,
+        "productId": "recliner23",
         "title": "Avalon Fabric Manual 1 Seater Recliner In Crimson Red Colour",
         "brand": "Duroflex",
         "price": {
@@ -420,6 +443,7 @@
     },
     {
         "id": 24,
+        "productId": "recliner24",
         "title": " Fibia Fabric Motorized 1 Seater Recliner In Grey Colour",
         "brand": "Lezino",
         "price": {
@@ -438,6 +462,7 @@
     },
     {
         "id": 25,
+        "productId": "recliner25",
         "title": "Avalon Fabric Motorized 1 Seater Recliner In Saddle Brown Colour",
         "brand": "Duroflex",
         "price": {
@@ -456,6 +481,7 @@
     },
     {
         "id": 26,
+        "productId": "recliner26",
         "title": "Avalon Fabric Manual 1 Seater Rocker Recliner In Twilight Blue Colour With Swivel",
         "brand": "Duroflex",
         "price": {
@@ -474,6 +500,7 @@
     },
     {
         "id": 27,
+        "productId": "recliner27",
         "title": " Avalon Fabric Manual 1 Seater Recliner In Sap Green Colour",
         "brand": "Duroflex",
         "price": {
@@ -492,6 +519,7 @@
     },
     {
         "id": 28,
+        "productId": "recliner28",
         "title": "Kingston Fabric 1 Seater Motorized Recliner In Brown Colour",
         "brand": "Athena Crafts",
         "price": {

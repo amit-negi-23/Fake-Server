@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "recliner1",
+    "title": "Vintter Leatherette 1 Seater Motorized Recliner in Black & Brown Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "41,499",
+        "mrp": "66,999"
+    },
+    "discount": {
+        "price": "₹25,500",
+        "percent": "(38% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vintter-1-seater-leatherette-motorized-recliner-in-black---brown-colour-by-casacraft-vintter-1-seate-nqlrdl.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": "Express Shipping in 1 day"
+}

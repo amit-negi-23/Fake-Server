@@ -1,0 +1,19 @@
+{
+    "id": 23,
+    "productId": "centreTable23",
+    "title": "Max Coffee Table in White & Exotic Teak Finish",
+    "brand": "A GLOBIA CREATIONS",
+    "price": {
+        "sell": "5,727",
+        "mrp": "7,500"
+    },
+    "discount": {
+        "price": "₹1,773",
+        "percent": "(24% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/max-coffee-table-in-dual-colour-by-a-globia-creations-max-coffee-table-in-dual-colour-by-a-globia-cr-9sj5fs.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 115 Extra Pepperfry Credits (Worth ₹115)",
+    "shipping": "Express Shipping in 1 day"
+}

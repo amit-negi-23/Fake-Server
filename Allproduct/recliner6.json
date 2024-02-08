@@ -1,0 +1,20 @@
+{
+    "id": 6,
+    "productId": "recliner6",
+    "title": " Agueda Fabric 1 Seater Manual Recliner in Blue Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "35,999 ",
+        "mrp": "47,999"
+    },
+    "discount": {
+        "price": " ₹12,000",
+        "percent": "(25% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/boston-1-seater-manual-recliner-in-blue-colour-by-casacraft-boston-1-seater-manual-recliner-in-blue--awlqaq.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 900 Extra Pepperfry Credits (Worth ₹900)",
+    "shipping": ""
+
+}

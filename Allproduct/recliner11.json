@@ -1,0 +1,19 @@
+{
+    "id": 11,
+    "productId": "recliner11",
+    "title": "Matt Fabric Manual 1 Seater Recliner In Blue Colour",
+    "brand": "@home",
+    "price": {
+        "sell": "16,315 ",
+        "mrp": "52,900"
+    },
+    "discount": {
+        "price": "₹36,585",
+        "percent": "(69% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/matt-1-seater-manual-recliner-in-blue-colour-by--home-matt-1-seater-manual-recliner-in-blue-colour-b-wkqgsb.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 327 Extra Pepperfry Credits (Worth ₹327)",
+    "shipping": "Express Shipping in 1 day"
+}

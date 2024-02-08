@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "recliner4",
+    "title": " Casey Fabric 1 Seater Manual Recliner In Brown Colour",
+    "brand": "Bantia Furniture",
+    "price": {
+        "sell": "23,199",
+        "mrp": "56,000"
+    },
+    "discount": {
+        "price": "₹32,801 ",
+        "percent": "(59% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/1/-/494x544/1-seater-manual-recliner-in-brown-colour-by-bantia-furniture-1-seater-manual-recliner-in-brown-colou-3hwtnq.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 464 Extra Pepperfry Credits (Worth ₹464)",
+    "shipping": "Express Shipping in 1 day"
+}

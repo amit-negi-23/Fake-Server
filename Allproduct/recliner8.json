@@ -1,0 +1,20 @@
+{
+    "id": 8,
+    "productId": "recliner8",
+    "title": "Cami Leatherette 1 Seater Manual Recliner in Dark brown Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "29,999",
+        "mrp": "45,999"
+    },
+    "discount": {
+        "price": "₹16,000 ",
+        "percent": "(35% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/a/494x544/cami-1-seater-leatherette-recliner-in-dark-brown-colour-by-casacraft-cami-1-seater-leatherette-recli-xvuwns.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 750 Extra Pepperfry Credits (Worth ₹750)",
+    "shipping": "Express Shipping in 1 day"
+
+}

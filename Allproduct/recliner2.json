@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "recliner2",
+    "title": "Valencia Leatherette 1 Seater Motorized Recliner in Dark Chocolate Brown Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "41,499",
+        "mrp": "56,999"
+    },
+    "discount": {
+        "price": "₹15,500 ",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/v/a/494x544/valencia-1-seater-leatherette-motorized-recliner-in-dark-chocolate-brown-colour-by-casacraft-valenci-qtzwa4.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": "Express Shipping in 1 day"
+}

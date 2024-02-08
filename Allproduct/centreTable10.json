@@ -1,0 +1,19 @@
+{
+    "id": 10,
+    "productId": "centreTable10",
+    "title": "Max Coffee Table in Choco Walnut Colour",
+    "brand": "A GLOBIA CREATIONS",
+    "price": {
+        "sell": "5,727",
+        "mrp": "7,260"
+    },
+    "discount": {
+        "price": "₹1,533 ",
+        "percent": "(21% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/max-coffee-table-in-choco-walnut--by-a-globia-creations-max-coffee-table-in-choco-walnut--by-a-globi-vogvsx.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 115 Extra Pepperfry Credits (Worth ₹115)",
+    "shipping": "Made To Order, Ships in 8 days"
+}

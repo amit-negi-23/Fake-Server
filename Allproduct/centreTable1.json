@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "centreTable1",
+    "title": "Kiosk Coffee Table in Choco Walnut Colour",
+    "brand": "A GLOBIA CREATIONS",
+    "price": {
+        "sell": "4,799 ",
+        "mrp": "6,360"
+    },
+    "discount": {
+        "price": "₹1,561 ",
+        "percent": "(25% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kiosk-coffee-table-in-choco-walnut--by-a-globia-creations-kiosk-coffee-table-in-choco-walnut--by-a-g-34ibdb.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+    "shipping": ""
+}

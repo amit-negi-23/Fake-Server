@@ -1,0 +1,19 @@
+{
+    "id": 15,
+    "productId": "recliner15",
+    "title": "Carerra Leatherette 1 Seater Manual Recliner in Beige Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "32,499 ",
+        "mrp": "42,999"
+    },
+    "discount": {
+        "price": "₹10,500 ",
+        "percent": "(24% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/a/494x544/carerra-1-seater-leatherette-manual-recliner-in-beige-colour-by-casacraft-carerra-1-seater-leatheret-vrtbpx.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 813 Extra Pepperfry Credits (Worth ₹813)",
+    "shipping": ""
+}

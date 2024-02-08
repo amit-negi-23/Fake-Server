@@ -1,0 +1,20 @@
+{
+    "id": 9,
+    "productId": "recliner9",
+    "title": " Levy Velvet Fabric 1 Seater Manual Recliner in Grey Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "33,499 ",
+        "mrp": "43,999"
+    },
+    "discount": {
+        "price": "₹10,500 ",
+        "percent": "(24% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/l/e/494x544/levy-velvet-fabric-1-seater-manual-recliner-in-grey-colour-levy-velvet-fabric-1-seater-manual-reclin-5ykk1y.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
+    "shipping": ""
+
+}

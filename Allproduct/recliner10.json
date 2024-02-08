@@ -1,0 +1,19 @@
+{
+    "id": 10,
+    "productId": "recliner10",
+    "title": "Avalon Fabric Manual 1 Seater Recliner In Desert Orange Colour",
+    "brand": "Duroflex",
+    "price": {
+        "sell": "19,599",
+        "mrp": "31,800"
+    },
+    "discount": {
+        "price": "₹12,201",
+        "percent": "(38% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-recliner-in-desert-orange-colour-avalon-fabric-manual-recliner-in-desert-orange-yhs8z8.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 392 Extra Pepperfry Credits (Worth ₹392)",
+    "shipping": "Ships in 3 days"
+}

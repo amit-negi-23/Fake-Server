@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "centreTable16",
+    "title": "Tamaki Coffee Table in Walnut Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "3,999",
+        "mrp": "6,999"
+    },
+    "discount": {
+        "price": "₹3,000 ",
+        "percent": "(43% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/tamaki-coffee-table-in-walnut-finish-by-mintwud-tamaki-coffee-table-in-walnut-finish-by-mintwud-xtdqha.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 100 Extra Pepperfry Credits (Worth ₹100)",
+    "shipping": "Express Shipping in 1 day"
+}
