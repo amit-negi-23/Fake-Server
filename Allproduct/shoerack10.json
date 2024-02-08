@@ -1,0 +1,19 @@
+{
+    "id": 10,
+    "productId": "shoerack10",
+    "title": "Swann Shoe Rack with Seating in Classic Walnut Matte Finish",
+    "brand": "Solace Craft",
+    "price": {
+        "sell": "7,999",
+        "mrp": "12,749"
+    },
+    "discount": {
+        "price": "₹4,750",
+        "percent": "(37% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/w/494x544/swann-shoe-cabinet-with-seating-in-classic-walnut-matte-finish-by-solace-craft-swann-shoe-cabinet-wi-djmt6c.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 160 Extra Pepperfry Credits (Worth ₹160)",
+    "shipping": ""
+}

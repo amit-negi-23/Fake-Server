@@ -1,0 +1,19 @@
+{
+    "id": 7,
+    "productId": "shoerack7",
+    "title": "Archer 2 Door Shoe Rack in Wenge Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "5,199",
+        "mrp": "7,199"
+    },
+    "discount": {
+        "price": "₹2,000",
+        "percent": "(28% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/archer-2-door-shoe-rack-in-wenge-finish-archer-2-door-shoe-rack-in-wenge-finish-inzmzo.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 130 Extra Pepperfry Credits (Worth ₹130)",
+    "shipping": "Express Shipping in 1 day"
+}

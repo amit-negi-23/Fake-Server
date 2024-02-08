@@ -1,0 +1,19 @@
+{
+    "id": 17,
+    "productId": "shoerack17",
+    "title": "Carlem Shoe Cabinet in Wenge Finish",
+    "brand": "bluewud",
+    "price": {
+        "sell": "5,399",
+        "mrp": "10,449"
+    },
+    "discount": {
+        "price": "₹5,050",
+        "percent": "(48% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/a/494x544/carlem-shoe-rack-in-wenge-finish-by-bluewud-carlem-shoe-rack-in-wenge-finish-by-bluewud-eqxcfp.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 108 Extra Pepperfry Credits (Worth ₹108)",
+    "shipping": "Express Shipping in 1 day"
+}

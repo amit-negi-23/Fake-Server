@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "shoerack12",
+    "title": "Antolin Shoe Cabinet In Natural Walnut Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "12,499",
+        "mrp": "15,999"
+    },
+    "discount": {
+        "price": "₹3,500",
+        "percent": "(22% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/h/494x544/chris-shoe-rack-in-wenge-finish-by-casacraft-chris-shoe-rack-in-wenge-finish-by-casacraft-gcrs5n.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 313 Extra Pepperfry Credits (Worth ₹313)",
+    "shipping": "Express Shipping in 1 day"
+}

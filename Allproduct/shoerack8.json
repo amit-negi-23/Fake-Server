@@ -1,0 +1,19 @@
+{
+    "id": 8,
+    "productId": "shoerack8",
+    "title": "Kaspen Shoe Cabinet in Walnut & White Finish",
+    "brand": "bluewud",
+    "price": {
+        "sell": "8,499 ",
+        "mrp": "9,999"
+    },
+    "discount": {
+        "price": " ₹1,500",
+        "percent": "(15% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/a/494x544/kaspen-shoe-cabinet-in-walnut---white-finish-kaspen-shoe-cabinet-in-walnut---white-finish-ejtsyr.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 170 Extra Pepperfry Credits (Worth ₹170)",
+    "shipping": "Ships in 6 days"
+}

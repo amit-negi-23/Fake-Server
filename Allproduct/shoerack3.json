@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "shoerack3",
+    "title": "Myr Shoe Cabinet In Dusky Basalt Finish",
+    "brand": "Outkraft",
+    "price": {
+        "sell": "4,720",
+        "mrp": "8,850"
+    },
+    "discount": {
+        "price": "₹4,130",
+        "percent": "(47% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/y/494x544/myr-shoe-cabinet-in-dusky-basalt-finish-myr-shoe-cabinet-in-dusky-basalt-finish-lkmloq.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 95 Extra Pepperfry Credits (Worth ₹95)",
+    "shipping": ""
+}

@@ -1,0 +1,19 @@
+{
+    "id": 5,
+    "productId": "shoerack5",
+    "title": "Cardiff Shoe Rack with Seating in Natural Finish",
+    "brand": "Solace Craft",
+    "price": {
+        "sell": "7,559",
+        "mrp": "16,499"
+    },
+    "discount": {
+        "price": "₹8,940",
+        "percent": "(54% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/a/494x544/cardiff-shoe-rack-with-seating-in-tan-finish-by-solace-craft-cardiff-shoe-rack-with-seating-in-tan-f-mnzfpi.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 152 Extra Pepperfry Credits (Worth ₹152)",
+    "shipping": "Express Shipping in 1 day"
+}

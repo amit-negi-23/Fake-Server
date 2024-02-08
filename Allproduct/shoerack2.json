@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "shoerack2",
+    "title": "Cygnus Shoe Rack with Seating in Classic Walnut Matte Finish",
+    "brand": "Solace Craft",
+    "price": {
+        "sell": "7,559",
+        "mrp": "12,749"
+    },
+    "discount": {
+        "price": "₹5,190 ",
+        "percent": "(41% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/y/494x544/cygnus-shoe-cabinet-with-seating-in-classic-walnut-matte-finish-by-solace-craft-cygnus-shoe-cabinet--xusl56.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 152 Extra Pepperfry Credits (Worth ₹152)",
+    "shipping": ""
+}

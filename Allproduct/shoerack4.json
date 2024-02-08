@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "shoerack4",
+    "title": "Footsie Shoe Rack with Seating in Dark Walnut Finish",
+    "brand": "Sleepyhead",
+    "price": {
+        "sell": "12,899",
+        "mrp": "16,799"
+    },
+    "discount": {
+        "price": "₹3,900 ",
+        "percent": "(23% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/footsie-combo-shoe-rack-in-dark-walnut-finish-by-sleepyhead-footsie-combo-shoe-rack-in-dark-walnut-f-s5uzmw.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 258 Extra Pepperfry Credits (Worth ₹258)",
+    "shipping": ""
+}

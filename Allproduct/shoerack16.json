@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "shoerack16",
+    "title": "Leo Shoe Cabinet in Wenge Finish",
+    "brand": "Fine Group",
+    "price": {
+        "sell": "7,940",
+        "mrp": "11,250"
+    },
+    "discount": {
+        "price": "₹3,310",
+        "percent": "(29% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/l/e/494x544/leo-shoerack-in-wenge-color-by-fine-group-leo-shoerack-in-wenge-color-by-fine-group-6g5vnw.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 159 Extra Pepperfry Credits (Worth ₹159)",
+    "shipping": ""
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "shoerack1",
+    "title": "Cindy Shoe Cabinet In Natural Walnut Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "12,999",
+        "mrp": "16,999"
+    },
+    "discount": {
+        "price": "₹4,000",
+        "percent": "(24% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/i/494x544/cindy-shoe-rack-in-wenge-finish-by-casacraft-cindy-shoe-rack-in-wenge-finish-by-casacraft-q993wy.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 325 Extra Pepperfry Credits (Worth ₹325)",
+    "shipping": "Express Shipping in 1 day"
+}
