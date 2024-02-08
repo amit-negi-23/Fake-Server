@@ -1,6 +1,7 @@
 [
         {
             "id": 1,
+            "productId": "bed1",
             "title": "Takeo Single Bed in Wenge Finish",
             "brand": "Mintwud from Pepperfry",
             "price": {
@@ -19,6 +20,7 @@
         },
         {
             "id": 2,
+            "productId": "bed2",
             "title": "Sheesham Wood King Size Bed in Honey Brown Finish",
             "brand": "Sleepyhead",
             "price": {
@@ -37,6 +39,7 @@
         },
         {
             "id": 3,
+            "productId": "bed3",
             "title": "Alpha Sheesham Wood King Size Bed With Box Storage in Light Honey Finish",
             "brand": "",
             "price": {
@@ -55,6 +58,7 @@
         },
         {
             "id": 4,
+            "productId": "bed4",
             "title": "Yuudai Queen Size Bed in Walnut Finish",
             "brand": "Valuewud from Pepperfry",
             "price": {
@@ -74,6 +78,7 @@
         },
         {
             "id": 5,
+            "productId": "bed5",
             "title": "Sheesham Wood Queen Size Bed in Honey Brown Finish",
             "brand": "Sleepyhead",
             "price": {
@@ -93,6 +98,7 @@
         },
         {
             "id": 6,
+            "productId": "bed6",
             "title": "Marbito Queen Size Bed in White Finish with Box Storage",
             "brand": "@home",
             "price": {
@@ -112,6 +118,7 @@
 
         {
             "id": 7,
+            "productId": "bed7",
             "title": "Pluto Sheesham Wood Queen Size Bed in Dark Brown Colour with Box Storage",
             "brand": "Wakeup India",
             "price": {
@@ -131,6 +138,7 @@
         },
         {
             "id": 8,
+            "productId": "bed8",
             "title": "Alpha Sheesham Wood Queen Size Bed in Light Honey Finish With Box Storage",
             "brand": "Wakeup India",
             "price": {
@@ -150,6 +158,7 @@
 
         {
             "id": 9,
+            "productId": "bed9",
             "title": "Maltein Queen Size Bed in Wenge & White Finish with Box Storage",
             "brand": "",
             "price": {
@@ -169,6 +178,7 @@
         },
         {
             "id": 10,
+            "productId": "bed10",
             "title": "Arcadia Sheesham Wood Queen Size Bed in Brown Colour with Box Storage",
             "brand": "Wakeup India",
             "price": {
@@ -188,6 +198,7 @@
         },
         {
             "id": 11,
+            "productId": "bed11",
             "title": "Yumako Queen Size Bed in Walnut Finish",
             "brand": "Valuewud from Pepperfry",
             "price": {
@@ -207,6 +218,7 @@
         },
         {
             "id": 12,
+            "productId": "bed12",
             "title": "Arthur Queen Size Bed in Walnut Finish",
             "brand": "Nilkamal",
             "price": {
@@ -225,6 +237,7 @@
         },
         {
             "id": 13,
+            "productId": "bed13",
             "title": "Takai Queen Size Bed in Wenge Finish",
             "brand": "Mintwud from Pepperfry",
             "price": {
@@ -243,6 +256,7 @@
         },
         {
             "id": 14,
+            "productId": "bed14",
             "title": "Jacklin Fabric King Size Bed in Cream Colour",
             "brand": "",
             "price": {
@@ -261,6 +275,7 @@
         },
         {
             "id": 15,
+            "productId": "bed15",
             "title": "Roll-Away Metal Folding Bed in Black Colour with Mattress",
             "brand": "Springtek",
             "price": {
@@ -279,6 +294,7 @@
         },
         {
             "id": 16,
+            "productId": "bed16",
             "title": "Pollo Single Bed In Walnut Finish",
             "brand": "bluewud",
             "price": {
@@ -297,6 +313,7 @@
         },
         {
             "id": 17,
+            "productId": "bed17",
             "title": "Kosmo Carnival King Size Bed in Sheesham Finish",
             "brand": "Spacewood",
             "price": {
@@ -315,6 +332,7 @@
         },
         {
             "id": 18,
+            "productId": "bed18",
             "title": "Pluto Sheesham Wood King Size Bed in Dark Brown Colour with Box Storage",
             "brand": "Wakeup India",
             "price": {
@@ -333,6 +351,7 @@
         },
         {
             "id": 19,
+            "productId": "bed19",
             "title": "Taurus Queen Size Bed In Columbian Walnut Colour With Box Storage",
             "brand": "Wakefit",
             "price": {
@@ -351,6 +370,7 @@
         },
         {
             "id": 20,
+            "productId": "bed20",
             "title": "Arcadia Sheesham Wood King Size Bed in Brown Colour with Box Storage",
             "brand": "Wakeup India",
             "price": {
@@ -369,6 +389,7 @@
         },
         {
             "id": 21,
+            "productId": "bed21",
             "title": "Striker Metal Single Bed in Black Finish",
             "brand": "Doctor Dreams - Nilkamal",
             "price": {
@@ -387,6 +408,7 @@
         },
         {
             "id": 22,
+            "productId": "bed22",
             "title": "Grace Single Bed in Walnut & Wenge Finish",
             "brand": "Crystal Furnitech",
             "price": {
@@ -405,6 +427,7 @@
         },
         {
             "id": 23,
+            "productId": "bed23",
             "title": "Addison Single Size Bed in Classic Walnut Finish with Box Storage",
             "brand": "@home",
             "price": {
@@ -423,6 +446,7 @@
         },
         {
             "id": 24,
+            "productId": "bed24",
             "title": "Marbito King Size Bed in White Finish with Box Storage",
             "brand": "@home",
             "price": {
@@ -441,6 +465,7 @@
         },
         {
             "id": 25,
+            "productId": "bed25",
             "title": "Kosmo Carnival Queen Size Bed in Natural Wenge Finish",
             "brand": "Spacewood",
             "price": {
@@ -459,6 +484,7 @@
         },
         {
             "id": 26,
+            "productId": "bed26",
             "title": "Nikki Queen Size Bed in Wenge Finish",
             "brand": "Mintwud from Pepperfry",
             "price": {
@@ -477,6 +503,7 @@
         },
         {
             "id": 27,
+            "productId": "bed27",
             "title": "Unique Single Bed in Wenge Finish with Box Storage",
             "brand": "Neudot",
             "price": {
@@ -495,6 +522,7 @@
         },
         {
             "id": 28,
+            "productId": "bed28",
             "title": "Kimi King Size Bed in Brown Finish with Box Storage",
             "brand": "Mintwud from Pepperfry",
             "price": {

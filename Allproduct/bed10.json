@@ -1,0 +1,20 @@
+{
+    "id": 10,
+    "productId": "bed10",
+    "title": "Arcadia Sheesham Wood Queen Size Bed in Brown Colour with Box Storage",
+    "brand": "Wakeup India",
+    "price": {
+        "sell": "39,380",
+        "mrp": "57,219"
+    },
+    "discount": {
+        "price": "₹17,839",
+        "percent": "(31% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/arcadia-sheesham-wood-queen-size-bed-with-box-storage-in-brown-colour-arcadia-sheesham-wood-queen-si-ebs2te.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 788 Extra Pepperfry Credits (Worth ₹788)",
+    "shipping": "Express Shipping in 1 day"
+  
+}

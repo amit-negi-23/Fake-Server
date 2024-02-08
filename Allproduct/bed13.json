@@ -1,0 +1,19 @@
+{
+    "id": 13,
+    "productId": "bed13",
+    "title": "Takai Queen Size Bed in Wenge Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "12,299 ",
+        "mrp": "16,899"
+    },
+    "discount": {
+        "price": "₹4,600",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/takai-queen-size-bed-in-wenge-finish-by-mintwud-takai-queen-size-bed-in-wenge-finish-by-mintwud-wqhmtv.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 259 Extra Pepperfry Credits (Worth ₹259)",
+    "shipping": "Express Shipping in 1 day"
+}

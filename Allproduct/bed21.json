@@ -1,0 +1,19 @@
+{
+    "id": 21,
+    "productId": "bed21",
+    "title": "Striker Metal Single Bed in Black Finish",
+    "brand": "Doctor Dreams - Nilkamal",
+    "price": {
+        "sell": "7,499 ",
+        "mrp": "15,999"
+    },
+    "discount": {
+        "price": "₹8,500 ",
+        "percent": "(53% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/striker-metal-single-bed-in-black-finish-striker-metal-single-bed-in-black-finish-1t2zhh.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 150 Extra Pepperfry Credits (Worth ₹150)",
+    "shipping": "Express Shipping in 1 day"
+}

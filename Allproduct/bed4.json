@@ -1,0 +1,20 @@
+{
+    "id": 4,
+    "productId": "bed4",
+    "title": "Yuudai Queen Size Bed in Walnut Finish",
+    "brand": "Valuewud from Pepperfry",
+    "price": {
+        "sell": "7,199 ",
+        "mrp": "13,599"
+    },
+    "discount": {
+        "price": "₹6,400",
+        "percent": "(47% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/y/u/494x544/yuudai-queen-size-bed-in-walnut-finish-by-valuewud-yuudai-queen-size-bed-in-walnut-finish-by-valuewu-zla9uj.jpg",
+    "category": "beds",
+    "extraoffer": "",
+    "shipping": "Express Shipping in 1 day"
+   
+}

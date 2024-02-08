@@ -1,0 +1,19 @@
+{
+    "id": 6,
+    "productId": "bed6",
+    "title": "Marbito Queen Size Bed in White Finish with Box Storage",
+    "brand": "@home",
+    "price": {
+        "sell": "17,367",
+        "mrp": "43,900"
+    },
+    "discount": {
+        "price": "₹26,533",
+        "percent": "(60% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marbito-queen-size-bed-in-white-finish-with-box-storage-marbito-queen-size-bed-in-white-finish-with--h1imyy.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 348 Extra Pepperfry Credits (Worth ₹348)",
+    "shipping": "Express Shipping in 1 day"
+}

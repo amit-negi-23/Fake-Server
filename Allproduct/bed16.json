@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "bed16",
+    "title": "Pollo Single Bed In Walnut Finish",
+    "brand": "bluewud",
+    "price": {
+        "sell": "10,999",
+        "mrp": "12,599"
+    },
+    "discount": {
+        "price": "₹1,600",
+        "percent": "(13% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/o/494x544/pollo-bed-in-walnut--finish-pollo-bed-in-walnut--finish-ea02uw.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 220 Extra Pepperfry Credits (Worth ₹220)",
+    "shipping": ""
+}

@@ -1,0 +1,19 @@
+{
+    "id": 23,
+    "productId": "bed23",
+    "title": "Addison Single Size Bed in Classic Walnut Finish with Box Storage",
+    "brand": "@home",
+    "price": {
+        "sell": "9,449",
+        "mrp": "19,900"
+    },
+    "discount": {
+        "price": "₹10,451",
+        "percent": "(53% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/d/494x544/addison-single-bed-in-classic-walnut-finish-with-box-storage-addison-single-bed-in-classic-walnut-fi-malz7i.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 197 Extra Pepperfry Credits (Worth ₹197)",
+    "shipping": "Express Shipping in 1 day"
+}

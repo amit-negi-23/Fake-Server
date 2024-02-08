@@ -1,0 +1,19 @@
+{
+    "id": 22,
+    "productId": "bed22",
+    "title": "Grace Single Bed in Walnut & Wenge Finish",
+    "brand": "Crystal Furnitech",
+    "price": {
+        "sell": "11,003 ",
+        "mrp": "17,999"
+    },
+    "discount": {
+        "price": " ₹6,996",
+        "percent": "(39% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/g/r/494x544/grace-single-bed-in-walnut-and-wenge-colour-by-crystal-furnitech-grace-single-bed-in-walnut-and-weng-cg4lj7.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 259 Extra Pepperfry Credits (Worth ₹259)",
+    "shipping": "Express Shipping in 1 day"
+}

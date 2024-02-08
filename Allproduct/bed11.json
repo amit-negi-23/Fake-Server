@@ -1,0 +1,20 @@
+{
+    "id": 11,
+    "productId": "bed11",
+    "title": "Yumako Queen Size Bed in Walnut Finish",
+    "brand": "Valuewud from Pepperfry",
+    "price": {
+        "sell": "7,499 ",
+        "mrp": "14,099"
+    },
+    "discount": {
+        "price": "₹6,600",
+        "percent": "(47% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/y/u/494x544/yumako-queen-size-bed-in-walnut-finish-by-valuewud-yumako-queen-size-bed-in-walnut-finish-by-valuewu-g0joea.jpg",
+    "category": "beds",
+    "extraoffer": "",
+    "shipping": "Express Shipping in 1 day"
+   
+}

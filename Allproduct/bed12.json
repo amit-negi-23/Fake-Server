@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "bed12",
+    "title": "Arthur Queen Size Bed in Walnut Finish",
+    "brand": "Nilkamal",
+    "price": {
+        "sell": "11,721 ",
+        "mrp": "21,000"
+    },
+    "discount": {
+        "price": "₹9,279",
+        "percent": "(44% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/arthur-queen-size-bed-in-walnut-finish-by-nilkamal-arthur-queen-size-bed-in-walnut-finish-by-nilkama-skbglh.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 235 Extra Pepperfry Credits (Worth ₹235)",
+    "shipping": "Express Shipping in 1 day"
+}

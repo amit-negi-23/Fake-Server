@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "bed2",
+    "title": "Sheesham Wood King Size Bed in Honey Brown Finish",
+    "brand": "Sleepyhead",
+    "price": {
+        "sell": "24,699",
+        "mrp": "32,499"
+    },
+    "discount": {
+        "price": "₹7,800",
+        "percent": "(24% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/e/494x544/bed-g-king-size-bed-in-honey-brown-colour-by-sleepyhead-bed-g-king-size-bed-in-honey-brown-colour-by-zzai79.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 494 Extra Pepperfry Credits (Worth ₹494)",
+    "shipping": "Express Shipping in 1 day"
+}

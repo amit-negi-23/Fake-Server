@@ -1,0 +1,20 @@
+{
+    "id": 5,
+    "productId": "bed5",
+    "title": "Sheesham Wood Queen Size Bed in Honey Brown Finish",
+    "brand": "Sleepyhead",
+    "price": {
+        "sell": "21,299 ",
+        "mrp": "27,999"
+    },
+    "discount": {
+        "price": "₹6,700",
+        "percent": "(24% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/e/494x544/bed-g-queen-size-bed-in-honey-brown-colour-by-sleepyhead-bed-g-queen-size-bed-in-honey-brown-colour--hislxw.jpg",
+    "category": "beds",
+    "extraoffer": "Earn 426 Extra Pepperfry Credits (Worth ₹426)",
+    "shipping": ""
+
+}
