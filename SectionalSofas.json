@@ -1,0 +1,508 @@
+[
+    {
+        "id": 1,
+        "title": "Monarch Leatherette LHS Sectional Sofa in Cream Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "91,099",
+            "mrp": "1,27,899"
+        },
+        "discount": {
+            "price": "₹36,800",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/m/o/494x544/monarch-lhs-l-shape-sofa-with-adjustable-headrest-in-cream-colour-by-vittoria-monarch-lhs-l-shape-so-2r5pba.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+        "shipping": ""
+    },
+    {
+        "id": 2,
+        "title": "Haiden Leatherette LHS Sectional Sofa in Dark Brown Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "75,699",
+            "mrp": "1,06,299"
+        },
+        "discount": {
+            "price": "₹30,600",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-lhs-3-seater-sofa-with-lounger-in-dark-brown-colour-by-vittoria-haiden-lhs-3-seater-sofa-with-jewxco.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+        "shipping": ""
+    },
+    {
+        "id": 3,
+        "title": "Fabric RHS Sectional Sofa in Grey & Magenta Colour",
+        "brand": "DHEP Furniture",
+        "price": {
+            "sell": "57,499",
+            "mrp": "1,17,400"
+        },
+        "discount": {
+            "price": "₹59,901",
+            "percent": "(51% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/3/-/494x544/3-seater-sofa-with-pouffe-in-grey---magenta-colour-by-dhep-furniture-3-seater-sofa-with-pouffe-in-gr-3ho1mm.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,353 Extra Pepperfry Credits (Worth ₹1,353)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 4,
+        "title": "Haiden Leatherette RHS Sectional Sofa in Red Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "75,699",
+            "mrp": "1,06,299"
+        },
+        "discount": {
+            "price": "₹30,600",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-rhs-l-shape-sofa-with-adjustable-headrest-in-red-colour-by-vittoria-haiden-rhs-l-shape-sofa-w-zhp8eh.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+        "shipping": ""
+    },
+    {
+        "id": 5,
+        "title": "Haiden Leatherette RHS Sectional Sofa in Navy Blue Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "75,699",
+            "mrp": "1,06,299"
+        },
+        "discount": {
+            "price": "₹30,600",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-rhs-l-shape-sofa-with-adjustable-headrest-in-navy-blue-colour-by-vittoria-haiden-rhs-l-shape--uz5cen.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+        "shipping": ""
+    },
+    {
+        "id": 6,
+        "title": "Rio Fabric LHS Sectional Sofa in Grey & Black Colour with Coffee Table",
+        "brand": "ARRA",
+        "price": {
+            "sell": "44,108",
+            "mrp": "69,800"
+        },
+        "discount": {
+            "price": "₹25,692",
+            "percent": "(37% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/r/i/494x544/rio-lhs-section-sofa-with-ottoman-in-grey---black-colour-by-arra-rio-lhs-section-sofa-with-ottoman-i-tjfudj.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 883 Extra Pepperfry Credits (Worth ₹883)",
+        "shipping": ""
+    },
+    {
+        "id": 7,
+        "title": "Garcia LHS 3 Seater Sofa with Lounger in Beige Colour",
+        "brand": "HomeTown",
+        "price": {
+            "sell": "84,900",
+            "mrp": "1,77,900"
+        },
+        "discount": {
+            "price": "₹93,000",
+            "percent": "(52% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/g/a/494x544/garcia-lhs-3-seater-sofa-with-lounger-in-beige-colour-by-hometown-garcia-lhs-3-seater-sofa-with-loun-m8cqxc.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,698 Extra Pepperfry Credits (Worth ₹1,698)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 8,
+        "title": " Garcia RHS 3 Seater Sofa With Lounger In Brown Colour",
+        "brand": "HomeTown",
+        "price": {
+            "sell": "84,900",
+            "mrp": "1,77,900"
+        },
+        "discount": {
+            "price": " ₹93,000 ",
+            "percent": "(52% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/g/a/494x544/garcia-rhs-3-seater-sofa-with-lounger-in-brown-colour-by-hometown-garcia-rhs-3-seater-sofa-with-loun-dgmhmg.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,698 Extra Pepperfry Credits (Worth ₹1,698)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 9,
+        "title": "Haiden Leatherette LHS Sectional Sofa in Cream Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "75,699",
+            "mrp": "1,06,299"
+        },
+        "discount": {
+            "price": "₹30,600",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-lhs-l-shape-sofa-with-adjustable-headrest-in-cream-colour-by-vittoria-haiden-lhs-l-shape-sofa-een9pl.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+        "shipping": ""
+    },
+    {
+        "id": 10,
+        "title": "Haiden Leatherette LHS Sectional Sofa in Blue Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "75,699",
+            "mrp": "1,06,299"
+        },
+        "discount": {
+            "price": "₹30,600 ",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-lhs-l-shape-sofa-with-adjustable-headrest-in-blue-colour-by-vittoria-haiden-lhs-l-shape-sofa--pmh7rp.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+        "shipping": ""
+        
+    },
+    {
+        "id": 11,
+        "title": " Garcia LHS 3 Seater Sofa with Lounger in Brown colour",
+        "brand": "HomeTown",
+        "price": {
+            "sell": "84,900",
+            "mrp": "1,77,900"
+        },
+        "discount": {
+            "price": "₹93,000",
+            "percent": "(52% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/g/a/494x544/garcia-lhs-3-seater-sofa-with-lounger-in-brown-colour-by-hometown-garcia-lhs-3-seater-sofa-with-loun-fhsdsk.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,698 Extra Pepperfry Credits (Worth ₹1,698)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 12,
+        "title": "Haiden Leatherette LHS Sectional Sofa in Red Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "75,699",
+            "mrp": "1,06,299"
+        },
+        "discount": {
+            "price": "₹30,600",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-lhs-l-shape-sofa-with-adjustable-headrest-in-red-colour-by-vittoria-haiden-lhs-l-shape-sofa-w-nhabtp.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+        "shipping": ""
+    },
+    {
+        "id": 13,
+        "title": " Haiden Leatherette LHS Sectional Sofa in Tan Colour",
+        "brand": "Vittoria",
+        "price": {
+            "sell": "75,699",
+            "mrp": "1,06,299"
+        },
+        "discount": {
+            "price": "₹30,600",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-lhs-l-shaped-sofa-in-dark-almond-colour-by-vittoria-haiden-lhs-l-shaped-sofa-in-dark-almond-c-m3mqho.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+        "shipping": ""
+    },
+    {
+        "id": 14,
+        "title": "Lisbon Leatherette LHS Sectional Sofa in Black Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "You Save ₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-lhs-sectional-sofa-in-black-colour-by-adorn-homez-lisbon-lhs-sectional-sofa-in-black-colour-b-ll1xwa.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 15,
+        "title": "Lisbon Leatherette RHS Sectional Sofa In Black Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063 ",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-rhs-sectional-sofa-in-black-colour-by-adorn-homez-lisbon-rhs-sectional-sofa-in-black-colour-b-vwfbii.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 16,
+        "title": "Lisbon LHS Sectional Sofa in Red Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-lhs-sectional-sofa-in-red-colour-by-adorn-homez-lisbon-lhs-sectional-sofa-in-red-colour-by-ad-4howd3.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 17,
+        "title": " Lisbon Leatherette LHS Sectional Sofa in Grey Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-lhs-sectional-sofa-in-grey-colour-by-adorn-homez-lisbon-lhs-sectional-sofa-in-grey-colour-by--53ctre.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 18,
+        "title": "Lisbon RHS Sectional Sofa in Brown Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-rhs-sectional-sofa-in-brown-colour-by-adorn-homez-lisbon-rhs-sectional-sofa-in-brown-colour-b-ufduhz.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 19,
+        "title": "Lisbon LHS Sectional Sofa in Blue Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-lhs-sectional-sofa-in-blue-colour-by-adorn-homez-lisbon-lhs-sectional-sofa-in-blue-colour-by--w14z9j.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 20,
+        "title": " Lisbon RHS Sectional Sofa in Blue Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063 ",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-rhs-sectional-sofa-in-blue-colour-by-adorn-homez-lisbon-rhs-sectional-sofa-in-blue-colour-by--ivqlxk.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 21,
+        "title": " Lisbon RHS Sectional Sofa in Red Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063 ",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-rhs-sectional-sofa-in-red-colour-by-adorn-homez-lisbon-rhs-sectional-sofa-in-red-colour-by-ad-dcjfmz.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 22,
+        "title": "Lisbon LHS Sectional Sofa in Light Yellow Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-lhs-sectional-sofa-in-light-yellow-colour-by-adorn-homez-lisbon-lhs-sectional-sofa-in-light-y-cvwvhi.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 23,
+        "title": "Lisbon Leatherette RHS Sectional Sofa in Grey Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-rhs-sectional-sofa-in-grey-colour-by-adorn-homez-lisbon-rhs-sectional-sofa-in-grey-colour-by--fpm47e.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 24,
+        "title": "Lisbon RHS Sectional Sofa in Beige Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562 ",
+            "mrp": "56,625"
+        },
+        "discount": {
+            "price": "₹23,063",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-rhs-sectional-sofa-in-beige-colour-by-adorn-homez-lisbon-rhs-sectional-sofa-in-beige-colour-b-s0jvin.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 25,
+        "title": "Lisbon Leatherette LHS Sectional Sofa in Brown Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "33,562",
+            "mrp": " ₹56,625"
+        },
+        "discount": {
+            "price": "₹23,063 ",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lisbon-lhs-sectional-sofa-in-brown-colour-by-adorn-homez-lisbon-lhs-sectional-sofa-in-brown-colour-b-dypr4x.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 790 Extra Pepperfry Credits (Worth ₹790)",
+        "shipping": ""
+    },
+    {
+        "id": 26,
+        "title": "Garcia LHS 3 Seater Sofa With Lounger In Grey Colour",
+        "brand": "HomeTown",
+        "price": {
+            "sell": "84,900",
+            "mrp": "1,77,900"
+        },
+        "discount": {
+            "price": "₹93,000",
+            "percent": "(52% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/g/a/494x544/garcia-lhs-3-seater-sofa-with-lounger-in-grey-colour-by-hometown-garcia-lhs-3-seater-sofa-with-loung-8whw0r.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,698 Extra Pepperfry Credits (Worth ₹1,698)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 27,
+        "title": "Jordan Fabric LHS Sectional Sofa in Blue & Grey Colour",
+        "brand": "Muebles Casa",
+        "price": {
+            "sell": "36,454",
+            "mrp": "40,999"
+        },
+        "discount": {
+            "price": "₹4,545",
+            "percent": "(11% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/j/o/494x544/jordan-lhs-sectional-sofa-in-blue---grey-colour-by-muebles-casa-jordan-lhs-sectional-sofa-in-blue----ypd3kh.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 730 Extra Pepperfry Credits (Worth ₹730)",
+        "shipping": ""
+    },
+    {
+        "id": 28,
+        "title": "Aria Velvet LHS Sectional Sofa in Blue Colour",
+        "brand": "Adorn Homez",
+        "price": {
+            "sell": "43,150",
+            "mrp": "72,940"
+        },
+        "discount": {
+            "price": "₹29,790 ",
+            "percent": "(41% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/aria-velvet-lhs-sectional-sofa-in-blue-colour-aria-velvet-lhs-sectional-sofa-in-blue-colour-sau2gv.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,016 Extra Pepperfry Credits (Worth ₹1,016)",
+        "shipping": ""
+    }
+    
+]

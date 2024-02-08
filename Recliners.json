@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1,
+        "title": "Vintter Leatherette 1 Seater Motorized Recliner in Black & Brown Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "41,499",
+            "mrp": "66,999"
+        },
+        "discount": {
+            "price": "₹25,500",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vintter-1-seater-leatherette-motorized-recliner-in-black---brown-colour-by-casacraft-vintter-1-seate-nqlrdl.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 2,
+        "title": "Valencia Leatherette 1 Seater Motorized Recliner in Dark Chocolate Brown Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "41,499",
+            "mrp": "56,999"
+        },
+        "discount": {
+            "price": "₹15,500 ",
+            "percent": "(27% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/v/a/494x544/valencia-1-seater-leatherette-motorized-recliner-in-dark-chocolate-brown-colour-by-casacraft-valenci-qtzwa4.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 3,
+        "title": "Avalon Fabric Manual 1 Seater Recliner In Grey Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "18,999",
+            "mrp": "30,834"
+        },
+        "discount": {
+            "price": "₹11,835",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-1-seater-recliner-in-grey-colour-avalon-fabric-manual-1-seater-recliner-in-grey-iwpfbh.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 380 Extra Pepperfry Credits (Worth ₹380)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 4,
+        "title": " Casey Fabric 1 Seater Manual Recliner In Brown Colour",
+        "brand": "Bantia Furniture",
+        "price": {
+            "sell": "23,199",
+            "mrp": "56,000"
+        },
+        "discount": {
+            "price": "₹32,801 ",
+            "percent": "(59% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/1/-/494x544/1-seater-manual-recliner-in-brown-colour-by-bantia-furniture-1-seater-manual-recliner-in-brown-colou-3hwtnq.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 464 Extra Pepperfry Credits (Worth ₹464)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 5,
+        "title": "Valencia Leatherette 1 Seater Manual Recliner in Dark Chocolate Brown Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "33,499",
+            "mrp": "45,999"
+        },
+        "discount": {
+            "price": "₹12,500 ",
+            "percent": "(27% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/v/a/494x544/valencia-1-seater-leatherette-recliner-in-dark-chocolate-brown-colour-by-casacraft-valencia-1-seater-jiprsy.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
+        "shipping": "Express Shipping in 1 day"
+    
+    },
+    {
+        "id": 6,
+        "title": " Agueda Fabric 1 Seater Manual Recliner in Blue Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "35,999 ",
+            "mrp": "47,999"
+        },
+        "discount": {
+            "price": " ₹12,000",
+            "percent": "(25% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/boston-1-seater-manual-recliner-in-blue-colour-by-casacraft-boston-1-seater-manual-recliner-in-blue--awlqaq.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 900 Extra Pepperfry Credits (Worth ₹900)",
+        "shipping": ""
+ 
+    },
+    {
+        "id": 7,
+        "title": "Avalon Fabric Manual 1 Seater Rocker Recliner In Graphite Grey Colour With Swivel",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "24,699 ",
+            "mrp": "40,000"
+        },
+        "discount": {
+            "price": "₹15,301 ",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-1-seater-recliner-in-graphite-grey-colour-with-swivel-avalon-fabric-manual-1-se-q8ponf.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 494 Extra Pepperfry Credits (Worth ₹494)",
+        "shipping": "Ships in 3 days"
+
+    },
+    {
+        "id": 8,
+        "title": "Cami Leatherette 1 Seater Manual Recliner in Dark brown Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "29,999",
+            "mrp": "45,999"
+        },
+        "discount": {
+            "price": "₹16,000 ",
+            "percent": "(35% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/c/a/494x544/cami-1-seater-leatherette-recliner-in-dark-brown-colour-by-casacraft-cami-1-seater-leatherette-recli-xvuwns.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 750 Extra Pepperfry Credits (Worth ₹750)",
+        "shipping": "Express Shipping in 1 day"
+
+    },
+    {
+        "id": 9,
+        "title": " Levy Velvet Fabric 1 Seater Manual Recliner in Grey Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "33,499 ",
+            "mrp": "43,999"
+        },
+        "discount": {
+            "price": "₹10,500 ",
+            "percent": "(24% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/e/494x544/levy-velvet-fabric-1-seater-manual-recliner-in-grey-colour-levy-velvet-fabric-1-seater-manual-reclin-5ykk1y.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
+        "shipping": ""
+
+    },
+    {
+        "id": 10,
+        "title": "Avalon Fabric Manual 1 Seater Recliner In Desert Orange Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "19,599",
+            "mrp": "31,800"
+        },
+        "discount": {
+            "price": "₹12,201",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-recliner-in-desert-orange-colour-avalon-fabric-manual-recliner-in-desert-orange-yhs8z8.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 392 Extra Pepperfry Credits (Worth ₹392)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 11,
+        "title": "Matt Fabric Manual 1 Seater Recliner In Blue Colour",
+        "brand": "@home",
+        "price": {
+            "sell": "16,315 ",
+            "mrp": "52,900"
+        },
+        "discount": {
+            "price": "₹36,585",
+            "percent": "(69% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/matt-1-seater-manual-recliner-in-blue-colour-by--home-matt-1-seater-manual-recliner-in-blue-colour-b-wkqgsb.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 327 Extra Pepperfry Credits (Worth ₹327)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 12,
+        "title": " Sarajevo Velvet Fabric 1 Seater Manual Recliner in Grey Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "32,499",
+            "mrp": "43,999"
+        },
+        "discount": {
+            "price": "₹11,500",
+            "percent": "(26% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/s/a/494x544/sarajevo-velvet-fabric-1-seater-manual-recliner-in-grey-colour-sarajevo-velvet-fabric-1-seater-manua-qc80ee.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 813 Extra Pepperfry Credits (Worth ₹813)",
+        "shipping": ""
+    },
+    {
+        "id": 13,
+        "title": "Bakewell Leather 2 Seater Motorized Recliner In Brown Colour",
+        "brand": "@home",
+        "price": {
+            "sell": "1,29,900",
+            "mrp": "2,80,900"
+        },
+        "discount": {
+            "price": "₹1,51,000 ",
+            "percent": "(54% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bakewell-leather-1-seater-powered-recliner-in-brown-colour-bakewell-leather-1-seater-powered-recline-baju6e.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 2,598 Extra Pepperfry Credits (Worth ₹2,598)",
+        "shipping": ""
+    },
+    {
+        "id": 14,
+        "title": " Avalon Fabric Manual 1 Seater Recliner In Brown Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "18,999",
+            "mrp": "30,834"
+        },
+        "discount": {
+            "price": "₹11,835",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-1-seater-recliner-in-brown-colour-avalon-fabric-manual-1-seater-recliner-in-bro-4gis3k.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 380 Extra Pepperfry Credits (Worth ₹380)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 15,
+        "title": "Carerra Leatherette 1 Seater Manual Recliner in Beige Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "32,499 ",
+            "mrp": "42,999"
+        },
+        "discount": {
+            "price": "₹10,500 ",
+            "percent": "(24% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/c/a/494x544/carerra-1-seater-leatherette-manual-recliner-in-beige-colour-by-casacraft-carerra-1-seater-leatheret-vrtbpx.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 813 Extra Pepperfry Credits (Worth ₹813)",
+        "shipping": ""
+    },
+    {
+        "id": 16,
+        "title": " Avalon Fabric Motorized 1 Seater Recliner In Grey Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "31,499",
+            "mrp": "50,000"
+        },
+        "discount": {
+            "price": "₹18,501",
+            "percent": "(37% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-motorized-1-seater-recliner-in-grey-colour-avalon-fabric-motorized-1-seater-recliner-i-zscszi.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 630 Extra Pepperfry Credits (Worth ₹630)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 17,
+        "title": "Valencia Fabric 1 Seater Manual Recliner in Warm Grey Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "33,499",
+            "mrp": "45,999"
+        },
+        "discount": {
+            "price": "₹12,500 ",
+            "percent": "(27% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/v/a/494x544/valencia-fabric-1-seater-manual-recliner-in-warm-grey-colour-valencia-fabric-1-seater-manual-recline-y0iwep.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
+        "shipping": ""
+    },
+    {
+        "id": 18,
+        "title": "Avalon Fabric Manual 1 Seater Recliner In Saddle Brown Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "18,999",
+            "mrp": "30,834"
+        },
+        "discount": {
+            "price": "₹11,835 ",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-1-seater-recliner-in-saddle-brown-colour-avalon-fabric-manual-1-seater-recliner-9icxcz.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 380 Extra Pepperfry Credits (Worth ₹380)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 19,
+        "title": "Avalon Fabric Manual 1 Seater Recliner In Beige Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "18,999 ",
+            "mrp": "30,834"
+        },
+        "discount": {
+            "price": "₹11,835 ",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-1-seater-recliner-in-biege-colour-avalon-fabric-manual-1-seater-recliner-in-bie-dqkkfc.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 380 Extra Pepperfry Credits (Worth ₹380)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 20,
+        "title": "Avalon RRR Fabric 1 Seater Manual Recliner In Crimson Red Colour With Rocker & Swivel",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "25,199",
+            "mrp": "40,900"
+        },
+        "discount": {
+            "price": "₹15,701",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-rrr-fabric-1-seater-manual-recliner-in-crimson-red-colour-with-rocker---swivel-avalon-rrr-fab-4ko8pe.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 504 Extra Pepperfry Credits (Worth ₹504)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 21,
+        "title": "Cami Leatherette 1 Seater Manual Recliner in Beige Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "33,499",
+            "mrp": "45,999"
+        },
+        "discount": {
+            "price": "₹12,500",
+            "percent": "(27% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/c/a/494x544/cami-leatherette-1-seater-manual-recliner-in-beige-colour-cami-leatherette-1-seater-manual-recliner--gmtvxx.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
+        "shipping": ""
+    },
+    {
+        "id": 22,
+        "title": " Olhao Leatherette 2 Seater Motorized Recliner in Charcoal Grey Colour",
+        "brand": "Casacraft from Pepperfry",
+        "price": {
+            "sell": "79,499",
+            "mrp": "1,09,999"
+        },
+        "discount": {
+            "price": "₹30,500",
+            "percent": "(28% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/o/l/494x544/olhao-leatherette-2-seater-motorized-recliner-in-charcoal-grey-colour-olhao-leatherette-2-seater-mot-zxyh6i.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 1,988 Extra Pepperfry Credits (Worth ₹1,988)",
+        "shipping": ""
+    },
+    {
+        "id": 23,
+        "title": "Avalon Fabric Manual 1 Seater Recliner In Crimson Red Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "19,599",
+            "mrp": "31,800"
+        },
+        "discount": {
+            "price": "₹12,201",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-recliner-in-crimson-red-colour-avalon-fabric-manual-recliner-in-crimson-red-col-pejc0v.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 392 Extra Pepperfry Credits (Worth ₹392)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 24,
+        "title": " Fibia Fabric Motorized 1 Seater Recliner In Grey Colour",
+        "brand": "Lezino",
+        "price": {
+            "sell": "43,000",
+            "mrp": "56,099"
+        },
+        "discount": {
+            "price": "₹13,099",
+            "percent": "(23% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fibia-1-seater-electric-motorized-recliner-chair-in-grey-suede-fabric-fibia-1-seater-electric-motori-dxafuu.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 860 Extra Pepperfry Credits (Worth ₹860)",
+        "shipping": ""
+    },
+    {
+        "id": 25,
+        "title": "Avalon Fabric Motorized 1 Seater Recliner In Saddle Brown Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "31,499",
+            "mrp": "50,000"
+        },
+        "discount": {
+            "price": "₹18,501",
+            "percent": "(37% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-motorized-1-seater-recliner-in-saddle-brown-colour-avalon-fabric-motorized-1-seater-re-jjpjiz.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 630 Extra Pepperfry Credits (Worth ₹630)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 26,
+        "title": "Avalon Fabric Manual 1 Seater Rocker Recliner In Twilight Blue Colour With Swivel",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "24,699",
+            "mrp": "40,000"
+        },
+        "discount": {
+            "price": "₹15,301",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-1-seater-recliner-in-twilight-blue-colour-with-swivel-avalon-fabric-manual-1-se-8ohmig.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 494 Extra Pepperfry Credits (Worth ₹494)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 27,
+        "title": " Avalon Fabric Manual 1 Seater Recliner In Sap Green Colour",
+        "brand": "Duroflex",
+        "price": {
+            "sell": "18,999",
+            "mrp": "30,834"
+        },
+        "discount": {
+            "price": "₹11,835",
+            "percent": "(38% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/v/494x544/avalon-fabric-manual-1-seater-recliner-in-sap-green-colour-avalon-fabric-manual-1-seater-recliner-in-pzqain.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 380 Extra Pepperfry Credits (Worth ₹380)",
+        "shipping": "Ships in 3 days"
+    },
+    {
+        "id": 28,
+        "title": "Kingston Fabric 1 Seater Motorized Recliner In Brown Colour",
+        "brand": "Athena Crafts",
+        "price": {
+            "sell": "31,299",
+            "mrp": "47,199"
+        },
+        "discount": {
+            "price": "₹15,900",
+            "percent": "(34% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kingston-1502-1-seater-motarised-recliner-in-brown-colour-kingston-1502-1-seater-motarised-recliner--brewc7.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 626 Extra Pepperfry Credits (Worth ₹626)",
+        "shipping": "Express Shipping in 1 day"
+    }
+    
+]
