@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "sectionSofa3",
+    "title": "Fabric RHS Sectional Sofa in Grey & Magenta Colour",
+    "brand": "DHEP Furniture",
+    "price": {
+        "sell": "57,499",
+        "mrp": "1,17,400"
+    },
+    "discount": {
+        "price": "₹59,901",
+        "percent": "(51% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/3/-/494x544/3-seater-sofa-with-pouffe-in-grey---magenta-colour-by-dhep-furniture-3-seater-sofa-with-pouffe-in-gr-3ho1mm.jpg",
+    "category": "sectionSofa",
+    "extraoffer": "Earn 1,353 Extra Pepperfry Credits (Worth ₹1,353)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 10,
+    "productId": "sectionSofa10",
+    "title": "Haiden Leatherette LHS Sectional Sofa in Blue Colour",
+    "brand": "Vittoria",
+    "price": {
+        "sell": "75,699",
+        "mrp": "1,06,299"
+    },
+    "discount": {
+        "price": "₹30,600 ",
+        "percent": "(29% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/a/494x544/haiden-lhs-l-shape-sofa-with-adjustable-headrest-in-blue-colour-by-vittoria-haiden-lhs-l-shape-sofa--pmh7rp.jpg",
+    "category": "sectionSofa",
+    "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
+    "shipping": ""
+    
+}

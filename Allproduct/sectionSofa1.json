@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "sectionSofa1",
+    "title": "Monarch Leatherette LHS Sectional Sofa in Cream Colour",
+    "brand": "Vittoria",
+    "price": {
+        "sell": "91,099",
+        "mrp": "1,27,899"
+    },
+    "discount": {
+        "price": "₹36,800",
+        "percent": "(29% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/o/494x544/monarch-lhs-l-shape-sofa-with-adjustable-headrest-in-cream-colour-by-vittoria-monarch-lhs-l-shape-so-2r5pba.jpg",
+    "category": "sectionSofa",
+    "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+    "shipping": ""
+}
