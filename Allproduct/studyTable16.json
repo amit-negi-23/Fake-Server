@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "studyTable16",
+    "title": "Betsu Hutch Desk in Cappuccino Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "4,999 ",
+        "mrp": "7,499"
+    },
+    "discount": {
+        "price": "₹2,500",
+        "percent": "(33% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/e/494x544/betsu-hutch-desk-in-light-cappuccino-colour-betsu-hutch-desk-in-light-cappuccino-colour-lrn1bb.jpg",
+    "category": "studyTable",
+    "extraoffer": "Earn 134 Extra Pepperfry Credits (Worth ₹134)",
+    "shipping": "Express Shipping in 1 day"
+}

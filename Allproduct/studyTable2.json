@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "studyTable2",
+    "title": " Melania Writing Table In Natural Walnut Colour",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "8,999 ",
+        "mrp": "12,999"
+    },
+    "discount": {
+        "price": "₹4,000",
+        "percent": "(31% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/e/494x544/melania-study-table-in-natural-walnut-colour-by-casacraft-melania-study-table-in-natural-walnut-colo-cfio7n.jpg",
+    "category": "studyTable",
+    "extraoffer": "Earn 225 Extra Pepperfry Credits (Worth ₹225)",
+    "shipping": "Express Shipping in 1 day"
+}

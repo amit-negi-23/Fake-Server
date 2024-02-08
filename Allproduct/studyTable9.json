@@ -1,0 +1,19 @@
+{
+    "id": 9,
+    "productId": "studyTable9",
+    "title": " Yuko Writing Table in Columbia Walnut Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "7,399",
+        "mrp": "9,599"
+    },
+    "discount": {
+        "price": "₹2,200",
+        "percent": "(23% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/y/u/494x544/yuko-study-table-with-two-drawers-in-columbia-walnut-finish-by-mintwud-yuko-study-table-with-two-dra-b73hyx.jpg",
+    "category": "studyTable",
+    "extraoffer": "Earn 185 Extra Pepperfry Credits (Worth ₹185)",
+    "shipping": "Express Shipping in 1 day"
+}

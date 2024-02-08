@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "studyTable3",
+    "title": "Kennewick Sheesham Wood Portable Table in Scratch Resistant Provincial Teak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "2,999 ",
+        "mrp": "4,999"
+    },
+    "discount": {
+        "price": "₹2,000 ",
+        "percent": "(40% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/e/494x544/kennewick-sheesham-wood-portable-laptop-table-in-provincial-teak-finish-by-woodsworth-kennewick-shee-ewkus4.jpg",
+    "category": "studyTable",
+    "extraoffer": "Earn 75 Extra Pepperfry Credits (Worth ₹75)",
+    "shipping": ""
+}

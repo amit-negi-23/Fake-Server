@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "productId": "studyTable1",
         "title": "Troy Writing Table in White & Oak Finish",
         "brand": "A GLOBIA CREATIONS",
         "price": {
@@ -19,6 +20,7 @@
     },
     {
         "id": 2,
+        "productId": "studyTable2",
         "title": " Melania Writing Table In Natural Walnut Colour",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -37,6 +39,7 @@
     },
     {
         "id": 3,
+        "productId": "studyTable3",
         "title": "Kennewick Sheesham Wood Portable Table in Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -55,6 +58,7 @@
     },
     {
         "id": 4,
+        "productId": "studyTable4",
         "title": "Claire Sheesham Wood Writing Table In Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -73,6 +77,7 @@
     },
     {
         "id": 5,
+        "productId": "studyTable5",
         "title": "Jois Solid Wood Portable Laptop Table with Compartment in Honey Oak Finish by Woodsworth from Pepperfry",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -91,6 +96,7 @@
     },
     {
         "id": 6,
+        "productId": "studyTable6",
         "title": " Troy Writing Table in Choco Walnut Finish",
         "brand": "A GLOBIA CREATIONS",
         "price": {
@@ -109,6 +115,7 @@
     },
     {
         "id": 7,
+        "productId": "studyTable7",
         "title": "Claire Sheesham Wood Writing Table in Scratch Resistant Honey Oak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -127,6 +134,7 @@
     },
     {
         "id": 8,
+        "productId": "studyTable8",
         "title": "Codrington Sheesham Wood Writing Table In Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -145,6 +153,7 @@
     },
     {
         "id": 9,
+        "productId": "studyTable9",
         "title": " Yuko Writing Table in Columbia Walnut Finish",
         "brand": "Mintwud from Pepperfry",
         "price": {
@@ -163,6 +172,7 @@
     },
     {
         "id": 10,
+        "productId": "studyTable10",
         "title": "Enkel Sheesham Wood Writing Table in Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -181,6 +191,7 @@
     },
     {
         "id": 11,
+        "productId": "studyTable11",
         "title": "Jirin Writing Table in Rainwood Finish With Lock",
         "brand": "Mintwud from Pepperfry",
         "price": {
@@ -199,6 +210,7 @@
     },
     {
         "id": 12,
+        "productId": "studyTable12",
         "title": "Zurndorf Sheesham Wood Writing Table in Scratch Resistant Honey Oak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -217,6 +229,7 @@
     },
     {
         "id": 13,
+        "productId": "studyTable13",
         "title": "Amigo Sheesham Wood Writing Table in Scratch Resistant Honey Oak Finish",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -235,6 +248,7 @@
     },
     {
         "id": 14,
+        "productId": "studyTable14",
         "title": " Claire Sheesham Wood Writing Table In Rustic Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -253,6 +267,7 @@
     },
     {
         "id": 15,
+        "productId": "studyTable15",
         "title": "Kelty Sheesham Wood Writing Table In Scratch Resistant Honey Oak Finish With Drawers",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -271,6 +286,7 @@
     },
     {
         "id": 16,
+        "productId": "studyTable16",
         "title": "Betsu Hutch Desk in Cappuccino Finish",
         "brand": "Mintwud from Pepperfry",
         "price": {
@@ -289,6 +305,7 @@
     },
     {
         "id": 17,
+        "productId": "studyTable17",
         "title": "Bickington Sheesham Wood Writing Table In Honey Oak Finish",
         "brand": "Amberville from Pepperfry",
         "price": {
@@ -307,6 +324,7 @@
     },
     {
         "id": 18,
+        "productId": "studyTable18",
         "title": " Antonio Solid Wood Writing Table In Distress Finish",
         "brand": "Bohemiana from Pepperfry",
         "price": {
@@ -325,6 +343,7 @@
     },
     {
         "id": 19,
+        "productId": "studyTable19",
         "title": "Zaragoza Solid Wood Writing Table In Rustic Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -343,6 +362,7 @@
     },
     {
         "id": 20,
+        "productId": "studyTable20",
         "title": "Oriel Sheesham Wood Writing Table In Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -361,6 +381,7 @@
     },
     {
         "id": 21,
+        "productId": "studyTable21",
         "title": "Falan Sheesham Wood Writing Table In Scratch Resistant Provincial Teak Finish",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -379,6 +400,7 @@
     },
     {
         "id": 22,
+        "productId": "studyTable22",
         "title": " Oriel Sheesham Wood Writing Table In Dark Rustic Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -397,6 +419,7 @@
     },
     {
         "id": 23,
+        "productId": "studyTable23",
         "title": "Enna Sheesham Wood Writing Table In Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -415,6 +438,7 @@
     },
     {
         "id": 24,
+        "productId": "studyTable24",
         "title": "Lisbon Sheesham Wood Writing Table In White On Scratch Resistant Rustic Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -433,6 +457,7 @@
     },
     {
         "id": 25,
+        "productId": "studyTable25",
         "title": "Brighton Sheesham Wood Writing Table In Honey Oak Finish",
         "brand": "Amberville from Pepperfry",
         "price": {
@@ -451,6 +476,7 @@
     },
     {
         "id": 26,
+        "productId": "studyTable26",
         "title": "Writing Table in Lorraine Walnut And Silver Grey Finish",
         "brand": "Spacewood Office Solutions",
         "price": {
@@ -469,6 +495,7 @@
     },
     {
         "id": 27,
+        "productId": "studyTable27",
         "title": "Oriel Sheesham Wood Writing Table In Warm Chestnut Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -487,6 +514,7 @@
     },
     {
         "id": 28,
+        "productId": "studyTable28",
         "title": "Avellino Sheesham Wood Writing Table in Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
