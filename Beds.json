@@ -1,5 +1,4 @@
-{
-    "beds": [
+[
         {
             "id": 1,
             "title": "Takeo Single Bed in Wenge Finish",
@@ -513,4 +512,3 @@
             "shipping": "Express Shipping in 1 day"
         }
     ]
-}
