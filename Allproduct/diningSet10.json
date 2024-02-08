@@ -1,0 +1,19 @@
+{
+    "id": 10,
+    "productId": "diningSet10",
+    "title": "Biscay Sheesham Wood 4 Seater Dining Set in Scratch Resistant Provincial Teak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "41,499",
+        "mrp": "52,999"
+    },
+    "discount": {
+        "price": "₹11,500 ",
+        "percent": "(22% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/i/494x544/biscay-sheesham-wood-4-seater-dining-set-in-provincial-teak-finish-biscay-sheesham-wood-4-seater-din-ia1yjp.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": ""
+}

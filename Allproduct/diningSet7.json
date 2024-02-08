@@ -1,0 +1,19 @@
+{
+    "id": 7,
+    "productId": "diningSet7",
+    "title": " Antara Sheesham Wood 4 Seater Round Dining Set in Scratch Resistant Honey Oak Finish",
+    "brand": "Mudramark from Pepperfry",
+    "price": {
+        "sell": "41,499",
+        "mrp": "52,999"
+    },
+    "discount": {
+        "price": "₹11,500",
+        "percent": "(22% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/antara-sheesham-wood-4-seater-round-dining-set-in-honey-oak-finish-antara-sheesham-wood-4-seater-rou-rsswet.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 8,
+    "productId": "diningSet8",
+    "title": " Alice 6 Seater Dining Set in Cherry Finish with Bench",
+    "brand": "@home",
+    "price": {
+        "sell": "24,730 ",
+        "mrp": "47,760"
+    },
+    "discount": {
+        "price": "₹23,030",
+        "percent": "(48% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alice-6-seater-dining-set-in-cherry-finish-with-bench-alice-6-seater-dining-set-in-cherry-finish-wit-beeond.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 495 Extra Pepperfry Credits (Worth ₹495)",
+    "shipping": "Express Shipping in 1 day"
+}

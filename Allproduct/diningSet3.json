@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "diningSet3",
+    "title": "Parnika Sheesham Wood 6 Seater Dining Set in Scratch Resistant Honey Oak Finish With Bench",
+    "brand": "Mudramark from Pepperfry",
+    "price": {
+        "sell": "51,499 ",
+        "mrp": "73,999"
+    },
+    "discount": {
+        "price": " ₹22,500 ",
+        "percent": "(30% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parnika-sheesham-wood-6-seater-dining-set-in-honey-oak-finish-with-bench-parnika-sheesham-wood-6-sea-8vn6zw.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,288 Extra Pepperfry Credits (Worth ₹1,288)",
+    "shipping": "Express Shipping in 1 day"
+}

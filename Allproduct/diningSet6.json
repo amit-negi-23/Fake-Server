@@ -1,0 +1,19 @@
+{
+    "id": 6,
+    "productId": "diningSet6",
+    "title": "Drusilla Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish With Bench",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "35,999 ",
+        "mrp": "48,999"
+    },
+    "discount": {
+        "price": "₹13,000",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/d/r/494x544/drusilla-solid-wood-4-seater-dining-set-with-chair-and-bench-in-provincial-teak-finish---by-woodswor-fxq7pl.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 900 Extra Pepperfry Credits (Worth ₹900)",
+    "shipping": ""
+}

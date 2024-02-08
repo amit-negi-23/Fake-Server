@@ -1,0 +1,19 @@
+{
+    "id": 12,
+    "productId": "diningSet12",
+    "title": "Tourconing Sheesham Wood 6 Seater Dining Set in Scratch Resistant Rustic Teak Finish With Bench",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "46,999",
+        "mrp": " ₹63,999"
+    },
+    "discount": {
+        "price": "₹17,000 ",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/t/o/494x544/tourconing-sheesham-wood-6-seater-dining-set-in-rustic-teak-finish-with-bench-tourconing-sheesham-wo-5zvzjj.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,175 Extra Pepperfry Credits (Worth ₹1,175)",
+    "shipping": ""
+}

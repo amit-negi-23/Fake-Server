@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "diningSet2",
+    "title": "Alice Solid Wood 6 Seater Dining Set in Antique Cherry Finish",
+    "brand": "@home",
+    "price": {
+        "sell": "26,595 ",
+        "mrp": "50,840"
+    },
+    "discount": {
+        "price": "₹24,245",
+        "percent": " (48% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alice-solid-wood-6-seater-dining-set-in-antique-cherry-finish-alice-solid-wood-6-seater-dining-set-i-2qsr1u.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 532 Extra Pepperfry Credits (Worth ₹532)",
+    "shipping": "Express Shipping in 1 day"
+}

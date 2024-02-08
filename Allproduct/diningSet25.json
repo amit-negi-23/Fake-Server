@@ -1,0 +1,19 @@
+{
+    "id": 25,
+    "productId": "diningSet25",
+    "title": " Jenna Metal 4 Seater Dining Set in Black Finish",
+    "brand": "Durian",
+    "price": {
+        "sell": "26,520 ",
+        "mrp": "44,200"
+    },
+    "discount": {
+        "price": "₹17,680",
+        "percent": "(40% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/j/e/494x544/jenna-dining-set-in-black-by-durian-jenna-dining-set-in-black-by-durian-hepwa1.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 531 Extra Pepperfry Credits (Worth ₹531)",
+    "shipping": ""
+}

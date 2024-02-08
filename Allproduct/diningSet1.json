@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "diningSet1",
+    "title": "Segur Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "52,999 ",
+        "mrp": "67,999"
+    },
+    "discount": {
+        "price": "₹15,000",
+        "percent": "(22% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/e/494x544/segur-sheesham-wood-6-seater-dining-set-in-provincial-teak-finish-segur-sheesham-wood-6-seater-dinin-25p2ya.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+    "shipping": ""
+}

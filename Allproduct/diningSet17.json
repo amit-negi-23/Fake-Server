@@ -1,0 +1,19 @@
+{
+    "id": 17,
+    "productId": "diningSet17",
+    "title": " Aoki Solid Wood 4 Seater Dining Set in Cocoa & Tempo Teal Finish",
+    "brand": "Mintwud from Pepperfry",
+    "price": {
+        "sell": "19,399",
+        "mrp": "32,499"
+    },
+    "discount": {
+        "price": "₹13,100 ",
+        "percent": "(40% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/o/494x544/aoki-solid-wood-4-seater-dining-set-in-cocoa---tempo-teal-colour-aoki-solid-wood-4-seater-dining-set-zjcjgm.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 555 Extra Pepperfry Credits (Worth ₹555)",
+    "shipping": "Express Shipping in 1 day"
+}

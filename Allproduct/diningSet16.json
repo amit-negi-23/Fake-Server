@@ -1,0 +1,19 @@
+{
+    "id": 16,
+    "productId": "diningSet16",
+    "title": " Marin Sheesham Wood 4 Seater Dining Set in Scratch Resistant Provincial Teak Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "32,999",
+        "mrp": "47,999"
+    },
+    "discount": {
+        "price": "₹15,000 ",
+        "percent": "(31% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marin-solid-wood-4-seater-dining-set-in-provincial-teak-finish-by-woodsworth-marin-solid-wood-4-seat-bzlc4g.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 825 Extra Pepperfry Credits (Worth ₹825)",
+    "shipping": ""
+}

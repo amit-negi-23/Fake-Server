@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "diningSet4",
+    "title": "Biscay Sheesham Wood 6 Seater Dining Set in Scratch Resistant Rustic Teak Finish With Bench",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "53,499 ",
+        "mrp": "72,999"
+    },
+    "discount": {
+        "price": "₹19,500",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/i/494x544/biscay-solid-wood-6-seater-dining-set-with-bench-in-rustic-teak-finish-by-woodsworth-biscay-solid-wo-rwkxxk.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,338 Extra Pepperfry Credits (Worth ₹1,338)",
+    "shipping": ""
+}

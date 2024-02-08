@@ -1,0 +1,19 @@
+{
+    "id": 23,
+    "productId": "diningSet23",
+    "title": "Kentan Sheesham Wood 6 Seater Dining Set In Rustic Teak With Bench",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "52,999",
+        "mrp": "73,999"
+    },
+    "discount": {
+        "price": "₹21,000 ",
+        "percent": "(28% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/e/494x544/kentan-sheesham-wood-6-seater-dining-set-in-rustic-teak-with-bench-kentan-sheesham-wood-6-seater-din-cvmskc.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+    "shipping": ""
+}

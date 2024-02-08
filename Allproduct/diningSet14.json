@@ -1,0 +1,19 @@
+{
+    "id": 14,
+    "productId": "diningSet14",
+    "title": "Enrico 6 Seater Dining Set With Porcelain Top & Golden Base",
+    "brand": "Casacraft from Pepperfry",
+    "price": {
+        "sell": "93,499",
+        "mrp": "1,28,999"
+    },
+    "discount": {
+        "price": "₹35,500",
+        "percent": "(28% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/494x544/perdue-6-seater-dining-set-with-white-marble-top---golden-base-by-bohemiana-perdue-6-seater-dining-s-5opr1k.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 2,338 Extra Pepperfry Credits (Worth ₹2,338)",
+    "shipping": ""
+}

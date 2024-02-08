@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "productId": "diningSet1",
         "title": "Segur Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -19,6 +20,7 @@
     },
     {
         "id": 2,
+        "productId": "diningSet2",
         "title": "Alice Solid Wood 6 Seater Dining Set in Antique Cherry Finish",
         "brand": "@home",
         "price": {
@@ -37,6 +39,7 @@
     },
     {
         "id": 3,
+        "productId": "diningSet3",
         "title": "Parnika Sheesham Wood 6 Seater Dining Set in Scratch Resistant Honey Oak Finish With Bench",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -55,6 +58,7 @@
     },
     {
         "id": 4,
+        "productId": "diningSet4",
         "title": "Biscay Sheesham Wood 6 Seater Dining Set in Scratch Resistant Rustic Teak Finish With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -73,6 +77,7 @@
     },
     {
         "id": 5,
+        "productId": "diningSet5",
         "title": "Parnika Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provinicial Teak Finish With Bench",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -91,6 +96,7 @@
     },
     {
         "id": 6,
+        "productId": "diningSet6",
         "title": "Drusilla Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -109,6 +115,7 @@
     },
     {
         "id": 7,
+        "productId": "diningSet7",
         "title": " Antara Sheesham Wood 4 Seater Round Dining Set in Scratch Resistant Honey Oak Finish",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -127,6 +134,7 @@
     },
     {
         "id": 8,
+        "productId": "diningSet8",
         "title": " Alice 6 Seater Dining Set in Cherry Finish with Bench",
         "brand": "@home",
         "price": {
@@ -145,6 +153,7 @@
     },
     {
         "id": 9,
+        "productId": "diningSet9",
         "title": "Alamo Sheesham Wood 6 Seater Dining Set In Scratch Resistant Provincial Teak Finish With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -163,6 +172,7 @@
     },
     {
         "id": 10,
+        "productId": "diningSet10",
         "title": "Biscay Sheesham Wood 4 Seater Dining Set in Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -181,6 +191,7 @@
     },
     {
         "id": 11,
+        "productId": "diningSet11",
         "title": "Parnika Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -199,6 +210,7 @@
     },
     {
         "id": 12,
+        "productId": "diningSet12",
         "title": "Tourconing Sheesham Wood 6 Seater Dining Set in Scratch Resistant Rustic Teak Finish With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -217,6 +229,7 @@
     },
     {
         "id": 13,
+        "productId": "diningSet13",
         "title": "Rezzan Sheesham Wood 6 Seater Dining Set In Scratch Resistant Rustic Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -235,6 +248,7 @@
     },
     {
         "id": 14,
+        "productId": "diningSet14",
         "title": "Enrico 6 Seater Dining Set With Porcelain Top & Golden Base",
         "brand": "Casacraft from Pepperfry",
         "price": {
@@ -253,6 +267,7 @@
     },
     {
         "id": 15,
+        "productId": "diningSet15",
         "title": "Kentan Sheesham Wood 4 Seater Dining Set In Rustic Teak Finish with Drawer",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -271,6 +286,7 @@
     },
     {
         "id": 16,
+        "productId": "diningSet16",
         "title": " Marin Sheesham Wood 4 Seater Dining Set in Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -289,6 +305,7 @@
     },
     {
         "id": 17,
+        "productId": "diningSet17",
         "title": " Aoki Solid Wood 4 Seater Dining Set in Cocoa & Tempo Teal Finish",
         "brand": "Mintwud from Pepperfry",
         "price": {
@@ -307,6 +324,7 @@
     },
     {
         "id": 18,
+        "productId": "diningSet18",
         "title": "Drusilla Sheesham Wood 6 Seater Dining Set In Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -325,6 +343,7 @@
     },
     {
         "id": 19,
+        "productId": "diningSet19",
         "title": " Parnika Sheesham Wood 4 Seater Dining Set in Scratch Resistant Honey Oak Finish With Bench",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -343,6 +362,7 @@
     },
     {
         "id": 20,
+        "productId": "diningSet20",
         "title": "Biscay Sheesham Wood 6 Seater Dining Set in Scratch Resistant Provincial Teak Finish With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -361,6 +381,7 @@
     },
     {
         "id": 21,
+        "productId": "diningSet21",
         "title": "Siramika Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish With Bench",
         "brand": "Mudramark from Pepperfry",
         "price": {
@@ -379,6 +400,7 @@
     },
     {
         "id": 22,
+        "productId": "diningSet22",
         "title": " Drusilla Sheesham Wood 6 Seater Dining Set In Scratch Resistant Provincial Teak Finish With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -397,6 +419,7 @@
     },
     {
         "id": 23,
+        "productId": "diningSet23",
         "title": "Kentan Sheesham Wood 6 Seater Dining Set In Rustic Teak With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -415,6 +438,7 @@
     },
     {
         "id": 24,
+        "productId": "diningSet24",
         "title": " Speyer Sheesham Wood 6 Seater Dining Set In Classic Scratch Resistant Honey Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -433,6 +457,7 @@
     },
     {
         "id": 25,
+        "productId": "diningSet25",
         "title": " Jenna Metal 4 Seater Dining Set in Black Finish",
         "brand": "Durian",
         "price": {
@@ -451,6 +476,7 @@
     },
     {
         "id": 26,
+        "productId": "diningSet26",
         "title": "Patron Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish With Bench",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -469,6 +495,7 @@
     },
     {
         "id": 27,
+        "productId": "diningSet27",
         "title": " Drusilla Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish",
         "brand": "Woodsworth from Pepperfry",
         "price": {
@@ -487,6 +514,7 @@
     },
     {
         "id": 28,
+        "productId": "diningSet28",
         "title": "Takhat Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish",
         "brand": "Mudramark from Pepperfry",
         "price": {

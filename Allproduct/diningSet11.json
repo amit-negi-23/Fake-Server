@@ -1,0 +1,19 @@
+{
+    "id": 11,
+    "productId": "diningSet11",
+    "title": "Parnika Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish",
+    "brand": "Mudramark from Pepperfry",
+    "price": {
+        "sell": "37,499 ",
+        "mrp": "50,999"
+    },
+    "discount": {
+        "price": "₹13,500",
+        "percent": "(26% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parnika-sheesham-wood-4-seater-dining-set-in-provincial-teak-finish-by-mudramark-parnika-sheesham-wo-3ngpy5.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 938 Extra Pepperfry Credits (Worth ₹938)",
+    "shipping": "Express Shipping in 1 day"
+}
