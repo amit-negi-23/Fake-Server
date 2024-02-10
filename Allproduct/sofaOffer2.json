@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "sofaOffer2",
+    "title": "Romona Velvet Fabric 3 Seater Curve Sofa In Ash Grey Colour,",
+    "brand": "Casacraft",
+    "price": {
+        "sell": "₹50,999",
+        "mrp": "₹67,999"
+    },
+    "discount": {
+        "price": "₹17,000 ",
+        "percent": "(25% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/r/o/494x544/romona-fabric-3-seater-curve-sofa-in-ash-grey-colour-romona-fabric-3-seater-curve-sofa-in-ash-grey-c-rbiiyn.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹863)",
+    "shipping": "Ships in 7 days"
+}

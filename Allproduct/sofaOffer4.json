@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "sofaOffer4",
+    "title": "Clarkson Leatherette 3 Seater Sofa in Burgundy Colour,",
+    "brand": "By Durian",
+    "price": {
+        "sell": "₹61,680",
+        "mrp": "₹1,02,800"
+    },
+    "discount": {
+        "price": "₹41,120 ",
+        "percent": "(40% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/l/494x544/clarkson-leatherette-3-seater-sofa-in-burgundy-colour-clarkson-leatherette-3-seater-sofa-in-burgundy-wgkkvd.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 440 Extra Pepperfry Credits (Worth ₹440)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -2,7 +2,7 @@
     {
     
     "id": 1,
-    "productId": "sofa1",
+    "productId": "sofaOffer1",
     "title": "Pedro 3 Seater Sofa In Velvet Camel Beige Colour,",
     "brand": "Trevi Furniture",
     "price": {
@@ -21,7 +21,7 @@
 }, 
 {
     "id": 2,
-    "productId": "sofa2",
+    "productId": "sofaOffer2",
     "title": "Romona Velvet Fabric 3 Seater Curve Sofa In Ash Grey Colour,",
     "brand": "Casacraft",
     "price": {
@@ -40,7 +40,7 @@
 },
 {
     "id": 3,
-    "productId": "sofa3",
+    "productId": "sofaOffer3",
     "title": "Antalya Velvet 3 Seater Sofa in Bottle Green Colour,",
     "brand": "By Urban Living",
     "price": {
@@ -59,7 +59,7 @@
 },
 {
     "id": 4,
-    "productId": "sofa4",
+    "productId": "sofaOffer4",
     "title": "Clarkson Leatherette 3 Seater Sofa in Burgundy Colour,",
     "brand": "By Durian",
     "price": {

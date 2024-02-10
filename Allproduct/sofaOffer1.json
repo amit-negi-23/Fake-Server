@@ -1,0 +1,20 @@
+{
+    
+    "id": 1,
+    "productId": "sofaOffer1",
+    "title": "Pedro 3 Seater Sofa In Velvet Camel Beige Colour,",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "₹25,185",
+        "mrp": "₹52,999"
+    },
+    "discount": {
+        "price": "₹27,814",
+        "percent": "(52 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/494x544/pedro-3-seater-sofa-in-velvet-camel-beige-colour-pedro-3-seater-sofa-in-velvet-camel-beige-colour-rgbcdr.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+    "shipping": "Express Shipping in 1 day"
+}

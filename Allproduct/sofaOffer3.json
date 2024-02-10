@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "sofaOffer3",
+    "title": "Antalya Velvet 3 Seater Sofa in Bottle Green Colour,",
+    "brand": "By Urban Living",
+    "price": {
+        "sell": "₹26,263",
+        "mrp": "₹35,799"
+    },
+    "discount": {
+        "price": "₹9,536",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/antalya-3-seater-sofa-in-bottle-green-finish-by-urban-living-antalya-3-seater-sofa-in-bottle-green-f-ebdlxk.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 836 Extra Pepperfry Credits (Worth ₹836)",
+    "shipping": "Express Shipping in 1 day"
+}
