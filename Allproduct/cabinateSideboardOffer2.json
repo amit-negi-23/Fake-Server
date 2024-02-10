@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "cabinateSideboardOffer2",
+    "title": "Magnus Sideboard in Frosty White Finish,",
+    "brand": "By Woodbuzz",
+    "price": {
+        "sell": "₹14,999",
+        "mrp": "₹22,900"
+    },
+    "discount": {
+        "price": "₹7,901 ",
+        "percent": "(35 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/magnus-side-crockery-unit-in-frosty-white-colour-by-woodbuzz-magnus-side-crockery-unit-in-frosty-whi-lfus1e.jpg",
+    "category": "cabinate and sideboard",
+    "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+    "shipping": "ship in 1 day"
+}

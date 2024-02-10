@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "cabinateSideboardOffer3",
+    "title": "Naia Cabinet in Columbia Walnut Finish",
+    "brand": "By Mintwud from Pepperfry",
+    "price": {
+        "sell": "₹3,299",
+        "mrp": "₹4,299"
+    },
+    "discount": {
+        "price": "₹1,000 ",
+        "percent": "(23 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/n/a/494x544/naia-cabinet-in-columbia-walnut-finish-naia-cabinet-in-columbia-walnut-finish-drauga.jpg",
+    "category": "cabinate and sideboard",
+    "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+    "shipping": "ship in 1 day"
+}

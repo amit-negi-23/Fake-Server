@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "cabinateSideboardOffer4",
+    "title": "Helsinki Cabinet in Intel Beige Finish,",
+    "brand": "By Kawachi",
+    "price": {
+        "sell": "₹12,000",
+        "mrp": "₹6,999"
+    },
+    "discount": {
+        "price": "₹5,001 ",
+        "percent": "(42 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/e/494x544/helsinki-corner-display-cabinet-in-intel-beige-colour-by-kawachi-helsinki-corner-display-cabinet-in--6xsmww.jpg",
+    "category": "cabinate and sideboard",
+    "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+    "shipping": "Ship in 2 days"
+}

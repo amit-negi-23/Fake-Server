@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "productId": "cabinateSideboardOffer1",
+        "title": "Eos Cabinet and Sideboard in Dark Walnut & Virgin Oak Finish,",
+        "brand": "By Crystal Furnitech",
+        "price": {
+            "sell": "₹8,608",
+            "mrp": "₹14,932"
+        },
+        "discount": {
+            "price": "₹6,324",
+            "percent": "(42 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/e/o/494x544/eos-cabinet-and-sideboard-in-dark-walnut---virgin-oak-finish-eos-cabinet-and-sideboard-in-dark-walnu-ijqnni.jpg",
+        "category": "cabinate and sideboard",
+        "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+        "shipping": "Ship in 2 days"
+    },
+    {
+        "id": 2,
+        "productId": "cabinateSideboardOffer2",
+        "title": "Magnus Sideboard in Frosty White Finish,",
+        "brand": "By Woodbuzz",
+        "price": {
+            "sell": "₹14,999",
+            "mrp": "₹22,900"
+        },
+        "discount": {
+            "price": "₹7,901 ",
+            "percent": "(35 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/magnus-side-crockery-unit-in-frosty-white-colour-by-woodbuzz-magnus-side-crockery-unit-in-frosty-whi-lfus1e.jpg",
+        "category": "cabinate and sideboard",
+        "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+        "shipping": "ship in 1 day"
+    },
+    {
+        "id": 3,
+        "productId": "cabinateSideboardOffer3",
+        "title": "Naia Cabinet in Columbia Walnut Finish",
+        "brand": "By Mintwud from Pepperfry",
+        "price": {
+            "sell": "₹3,299",
+            "mrp": "₹4,299"
+        },
+        "discount": {
+            "price": "₹1,000 ",
+            "percent": "(23 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/n/a/494x544/naia-cabinet-in-columbia-walnut-finish-naia-cabinet-in-columbia-walnut-finish-drauga.jpg",
+        "category": "cabinate and sideboard",
+        "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+        "shipping": "ship in 1 day"
+    },
+    {
+        "id": 4,
+        "productId": "cabinateSideboardOffer4",
+        "title": "Helsinki Cabinet in Intel Beige Finish,",
+        "brand": "By Kawachi",
+        "price": {
+            "sell": "₹12,000",
+            "mrp": "₹6,999"
+        },
+        "discount": {
+            "price": "₹5,001 ",
+            "percent": "(42 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/e/494x544/helsinki-corner-display-cabinet-in-intel-beige-colour-by-kawachi-helsinki-corner-display-cabinet-in--6xsmww.jpg",
+        "category": "cabinate and sideboard",
+        "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+        "shipping": "Ship in 2 days"
+    }
+]
