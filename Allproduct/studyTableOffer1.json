@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "studyTableOffer1",
+    "title": "Kosmo Winner Hutch Desk in Rigato Walnut Finish,",
+    "brand": "By Spacewood",
+    "price": {
+        "sell": "₹7,810",
+        "mrp": "₹9,999"
+    },
+    "discount": {
+        "price": "₹2,189 ",
+        "percent": "(22 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/w/i/494x544/winner-hutch-desk-in-rigato-walnut-finish-winner-hutch-desk-in-rigato-walnut-finish-ijoses.jpg",
+    "category": "studyTable",
+    "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+    "shipping": "Express Shipping in 1 day"
+}

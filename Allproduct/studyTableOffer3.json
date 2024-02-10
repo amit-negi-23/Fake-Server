@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "studyTableOffer3",
+    "title": "Kosmo Coral Kids Study Table in Drift Wood Finish",
+    "brand": "Spacewood",
+    "price": {
+        "sell": "₹9,618 ",
+        "mrp": "₹17,422"
+    },
+    "discount": {
+        "price": "₹7,804",
+        "percent": "(45% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/c/o/494x544/coral-study-table-in-drift-wood-finish-by-spacewood-coral-study-table-in-drift-wood-finish-by-spacew-2nvr6m.jpg",
+    "category": "studyTable",
+    "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+    "shipping": "Express Shipping in 1 day"
+}

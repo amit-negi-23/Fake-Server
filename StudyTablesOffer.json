@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "productId": "studyTableOffer1",
+        "title": "Kosmo Winner Hutch Desk in Rigato Walnut Finish,",
+        "brand": "By Spacewood",
+        "price": {
+            "sell": "₹7,810",
+            "mrp": "₹9,999"
+        },
+        "discount": {
+            "price": "₹2,189 ",
+            "percent": "(22 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/w/i/494x544/winner-hutch-desk-in-rigato-walnut-finish-winner-hutch-desk-in-rigato-walnut-finish-ijoses.jpg",
+        "category": "studyTable",
+        "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 2,
+        "productId": "studyTableOffer2",
+        "title": "Marvel Study Table in Frosty White And Ocean Green Finish,",
+        "brand": "By Woodbuzz",
+        "price": {
+            "sell": "₹13,600",
+            "mrp": "₹23,200"
+        },
+        "discount": {
+            "price": "₹9,600 ",
+            "percent": "(41 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marvel-study-table--in-wenge-and-frosty-white-colour-by-woodbuzz-marvel-study-table--in-wenge-and-fr-b7hrhk.jpg",
+        "category": "studyTable",
+        "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 3,
+        "productId": "studyTableOffer3",
+        "title": "Kosmo Coral Kids Study Table in Drift Wood Finish",
+        "brand": "Spacewood",
+        "price": {
+            "sell": "₹9,618 ",
+            "mrp": "₹17,422"
+        },
+        "discount": {
+            "price": "₹7,804",
+            "percent": "(45% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/c/o/494x544/coral-study-table-in-drift-wood-finish-by-spacewood-coral-study-table-in-drift-wood-finish-by-spacew-2nvr6m.jpg",
+        "category": "studyTable",
+        "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 4,
+        "productId": "studyTableOffer4",
+        "title": "Duke Writing Table in Frosty White And Ocean Green Finish,",
+        "brand": "By Woodbuzz",
+        "price": {
+            "sell": "₹4,725",
+            "mrp": "₹6,800"
+        },
+        "discount": {
+            "price": "₹2,075 ",
+            "percent": "(31 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/d/u/494x544/duke-writing-table-in-frosty-white-and-ocean-green-colour-by-woodbuzz-duke-writing-table-in-frosty-w-znkbdo.jpg",
+        "category": "studyTable",
+        "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+        "shipping": "Express Shipping in 1 day"
+    }
+]
