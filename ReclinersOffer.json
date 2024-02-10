@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "productId": "reclinerOffer1",
+        "title": "Lixo Leatherette Manual 1 Seater Recliner In Beige Colour",
+        "brand": "Neudot",
+        "price": {
+            "sell": "₹15,134",
+            "mrp": "₹29,500"
+        },
+        "discount": {
+            "price": "₹14,366",
+            "percent": "(49% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lixo-1-seater-fabric-manual-recliner-in-beige-colour-by-neudot-lixo-1-seater-fabric-manual-recliner--jvzasj.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 2,
+        "productId": "reclinerOffer2",
+        "title": "Kingston Fabric 1 Seater Manual Recliner In Yale Blue Colour",
+        "brand": "Athena Crafts",
+        "price": {
+            "sell": "₹22,245",
+            "mrp": "₹34,699"
+        },
+        "discount": {
+            "price": "₹12,454 ",
+            "percent": "(36% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kingston-1502-1-seater-manual-recliner-in-yale-blue-colour-kingston-1502-1-seater-manual-recliner-in-7uoq3x.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+        "shipping": "Express Shipping in 1 day"
+
+    },
+    {
+        "id": 3,
+        "productId": "reclinerOffer3",
+        "title": "Dylan 1 Seater Manual Recliner in Grey Colour",
+        "brand": "Durian",
+        "price": {
+            "sell": "₹22,640 ",
+            "mrp": "₹56,600"
+        },
+        "discount": {
+            "price": "₹33,960",
+            "percent": "(60% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/d/y/494x544/dylan-1-seater-manual-recliner-in-grey-colour-dylan-1-seater-manual-recliner-in-grey-colour-35tvyi.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 4,
+        "productId": "reclinerOffer4",
+        "title": "Helios Fabric Manual 1 Seater Recliner In Beige Colour",
+        "brand": "Little Nap Designs",
+        "price": {
+            "sell": "₹21,803",
+            "mrp": "₹27,132"
+        },
+        "discount": {
+            "price": "₹5,329",
+            "percent": "(20% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/e/494x544/helios-single-seater-manual-recliner-in-beige-colour-by-little-nap-helios-single-seater-manual-recli-atf2vc.jpg",
+        "category": "recliner",
+        "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+        "shipping": "Express Shipping in 2 days"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "reclinerOffer4",
+    "title": "Helios Fabric Manual 1 Seater Recliner In Beige Colour",
+    "brand": "Little Nap Designs",
+    "price": {
+        "sell": "₹21,803",
+        "mrp": "₹27,132"
+    },
+    "discount": {
+        "price": "₹5,329",
+        "percent": "(20% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/e/494x544/helios-single-seater-manual-recliner-in-beige-colour-by-little-nap-helios-single-seater-manual-recli-atf2vc.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": "Express Shipping in 2 days"
+}

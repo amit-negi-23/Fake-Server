@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "reclinerOffer1",
+    "title": "Lixo Leatherette Manual 1 Seater Recliner In Beige Colour",
+    "brand": "Neudot",
+    "price": {
+        "sell": "₹15,134",
+        "mrp": "₹29,500"
+    },
+    "discount": {
+        "price": "₹14,366",
+        "percent": "(49% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lixo-1-seater-fabric-manual-recliner-in-beige-colour-by-neudot-lixo-1-seater-fabric-manual-recliner--jvzasj.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": "Express Shipping in 1 day"
+}

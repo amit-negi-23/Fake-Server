@@ -1,0 +1,20 @@
+{
+    "id": 2,
+    "productId": "reclinerOffer2",
+    "title": "Kingston Fabric 1 Seater Manual Recliner In Yale Blue Colour",
+    "brand": "Athena Crafts",
+    "price": {
+        "sell": "₹22,245",
+        "mrp": "₹34,699"
+    },
+    "discount": {
+        "price": "₹12,454 ",
+        "percent": "(36% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kingston-1502-1-seater-manual-recliner-in-yale-blue-colour-kingston-1502-1-seater-manual-recliner-in-7uoq3x.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": "Express Shipping in 1 day"
+
+}

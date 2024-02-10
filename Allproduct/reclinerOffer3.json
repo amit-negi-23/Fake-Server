@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "reclinerOffer3",
+    "title": "Dylan 1 Seater Manual Recliner in Grey Colour",
+    "brand": "Durian",
+    "price": {
+        "sell": "₹22,640 ",
+        "mrp": "₹56,600"
+    },
+    "discount": {
+        "price": "₹33,960",
+        "percent": "(60% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/d/y/494x544/dylan-1-seater-manual-recliner-in-grey-colour-dylan-1-seater-manual-recliner-in-grey-colour-35tvyi.jpg",
+    "category": "recliner",
+    "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+    "shipping": "Express Shipping in 1 day"
+}
