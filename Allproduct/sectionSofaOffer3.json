@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "sectionSofaOffer3",
+    "title": "Duke Fabric LHS Sectional Sofa(3 + Lounger) In Grey Colour,",
+    "brand": "By Trevi Furniture",
+    "price": {
+        "sell": "₹30,281",
+        "mrp": "₹54,599"
+    },
+    "discount": {
+        "price": "₹24,318 ",
+        "percent": "(45 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/d/u/494x544/duke-fabric-rhs-sectional-sofa-3---lounger--in-grey-colour-duke-fabric-rhs-sectional-sofa-3---lounge-lznrde.jpg",
+    "category": "sectionSofa",
+    "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+    "shipping": "Express Shipping in 1 day"
+}

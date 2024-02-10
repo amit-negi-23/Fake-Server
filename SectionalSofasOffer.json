@@ -1,0 +1,79 @@
+
+[
+    {
+        "id": 1,
+        "productId": "sectionSofaOffer1",
+        "title": "Bae Fabric LHS Sectional Sofa in Stone Grey Colour",
+        "brand": "By Sleepyhead",
+        "price": {
+            "sell": "₹24,205",
+            "mrp": "₹32,499"
+        },
+        "discount": {
+            "price": "₹8,294 ",
+            "percent": "(26 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bae-4-seater-interchangeable-sectional-sofa-in-stone-grey-colour-by-sleepyhead-bae-4-seater-intercha-1lryqi.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 2,
+        "productId": "sectionSofaOffer2",
+        "title": "Stella Fabric RHS Sectional Sofa in Grey Colour",
+        "brand": "By ARRA",
+        "price": {
+            "sell": "₹32,796",
+            "mrp": "₹63,700"
+        },
+        "discount": {
+            "price": "₹30,904 ",
+            "percent": "(49 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/stella-rhs-sectional-sofa-in-grey-colour-by-arra-stella-rhs-sectional-sofa-in-grey-colour-by-arra-rr3oj3.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 3,
+        "productId": "sectionSofaOffer3",
+        "title": "Duke Fabric LHS Sectional Sofa(3 + Lounger) In Grey Colour,",
+        "brand": "By Trevi Furniture",
+        "price": {
+            "sell": "₹30,281",
+            "mrp": "₹54,599"
+        },
+        "discount": {
+            "price": "₹24,318 ",
+            "percent": "(45 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/d/u/494x544/duke-fabric-rhs-sectional-sofa-3---lounger--in-grey-colour-duke-fabric-rhs-sectional-sofa-3---lounge-lznrde.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 4,
+        "productId": "sectionSofaOffer4",
+        "title": "Lima Velvet RHS Sectional Sofa in Navy Blue Colour",
+        "brand": "By Adorn Homez",
+        "price": {
+            "sell": "₹30,253",
+            "mrp": "₹54,587"
+        },
+        "discount": {
+            "price": "₹24,334 ",
+            "percent": "(45 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lima-l-shape-sofa-sectional-rhs-in-navy-blue-colour-by-adorn-homez-lima-l-shape-sofa-sectional-rhs-i-kmsylx.jpg",
+        "category": "sectionSofa",
+        "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+        "shipping": "Express Shipping in 1 day"
+    }
+]

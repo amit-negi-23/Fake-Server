@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "sectionSofaOffer2",
+    "title": "Stella Fabric RHS Sectional Sofa in Grey Colour",
+    "brand": "By ARRA",
+    "price": {
+        "sell": "₹32,796",
+        "mrp": "₹63,700"
+    },
+    "discount": {
+        "price": "₹30,904 ",
+        "percent": "(49 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/stella-rhs-sectional-sofa-in-grey-colour-by-arra-stella-rhs-sectional-sofa-in-grey-colour-by-arra-rr3oj3.jpg",
+    "category": "sectionSofa",
+    "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+    "shipping": "Express Shipping in 1 day"
+}

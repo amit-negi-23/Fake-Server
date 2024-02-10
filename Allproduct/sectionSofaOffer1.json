@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "sectionSofaOffer1",
+    "title": "Bae Fabric LHS Sectional Sofa in Stone Grey Colour",
+    "brand": "By Sleepyhead",
+    "price": {
+        "sell": "₹24,205",
+        "mrp": "₹32,499"
+    },
+    "discount": {
+        "price": "₹8,294 ",
+        "percent": "(26 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bae-4-seater-interchangeable-sectional-sofa-in-stone-grey-colour-by-sleepyhead-bae-4-seater-intercha-1lryqi.jpg",
+    "category": "sectionSofa",
+    "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+    "shipping": "Express Shipping in 1 day"
+}
