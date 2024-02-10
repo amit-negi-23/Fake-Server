@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "productId": "centreTableOffer1",
+        "title": "Daist Coffee Table In Exotic Teak Finish",
+        "brand": "A GLOBIA CREATIONS",
+        "price": {
+            "sell": "₹6,187 ",
+            "mrp": "₹8,004"
+        },
+        "discount": {
+            "price": "₹1,817",
+            "percent": "(23% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/d/a/494x544/daist-coffee-table-in-exotic-teak-finish-by-a-globia-creations-daist-coffee-table-in-exotic-teak-fin-wspcms.jpg",
+        "category": "centreTable",
+        "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+        "shipping": "ship in 1 day"
+    },
+    {
+        "id": 2,
+        "productId": "centreTableOffer2",
+        "title": "Orca Coffee Table in Black & Cloud Ash Colour",
+        "brand": "By Crystal Furnitech",
+        "price": {
+            "sell": "₹2,634",
+            "mrp": "₹4,299"
+        },
+        "discount": {
+            "price": "₹1,665",
+            "percent": "(39 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/orca-coffee-table-in-black---cloud-ash-colour-orca-coffee-table-in-black---cloud-ash-colour-vp8f8b.jpg",
+        "category": "centreTable",
+        "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+        "shipping": "ship in 1 day"
+    },
+    {
+        "id": 3,
+        "productId": "centreTableOffer3",
+        "title": "Eco Coffee Table In Frosty White Finish,",
+        "brand": "By A GLOBIA CREATIONS",
+        "price": {
+            "sell": "₹5,784",
+            "mrp": "₹7,481"
+        },
+        "discount": {
+            "price": "₹1,697",
+            "percent": "(23 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/e/c/494x544/eco-coffee-table-in-frosty-white-finish-by-a-globia-creations-eco-coffee-table-in-frosty-white-finis-qphuow.jpg",
+        "category": "centreTable",
+        "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+        "shipping": "ship in 1 day"
+    },
+    {
+        "id": 4,
+        "productId": "centreTableOffer4",
+        "title": "Kayla Large Coffee Table in Wenge Finish",
+        "brand": "Crystal Furnitech",
+        "price": {
+            "sell": "₹4,984",
+            "mrp": "₹6,703"
+        },
+        "discount": {
+            "price": "₹1,719",
+            "percent": "(26% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/k/a/494x544/kayla-large-coffee-table-in-wenge-finish-kayla-large-coffee-table-in-wenge-finish-odrvut.jpg",
+        "category": "centreTable",
+        "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+        "shipping": "ship in 1 day"
+   
+    }
+]

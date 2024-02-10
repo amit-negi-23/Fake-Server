@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "barfurnitureOffer2",
+    "title": " Indus Leatherette Bar Stool In Dark Gray Colour With Swivel",
+    "brand": "Furniturstation",
+    "price": {
+        "sell": "₹5,487 ",
+        "mrp": "₹10,999"
+    },
+    "discount": {
+        "price": "₹5,512",
+        "percent": "(50% off)"
+    },
+    "rating": "4.5",
+    "image":"https://ii1.pepperfry.com/media/catalog/product/i/n/494x544/indus-leatherette-bar-stool-in-dark-gray-colour-with-swivel-indus-leatherette-bar-stool-in-dark-gray-2pbdl2.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+    "shipping": "Ship in 2 days"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 4,
+    "productId": "centreTableOffer4",
+    "title": "Kayla Large Coffee Table in Wenge Finish",
+    "brand": "Crystal Furnitech",
+    "price": {
+        "sell": "₹4,984",
+        "mrp": "₹6,703"
+    },
+    "discount": {
+        "price": "₹1,719",
+        "percent": "(26% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/a/494x544/kayla-large-coffee-table-in-wenge-finish-kayla-large-coffee-table-in-wenge-finish-odrvut.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+    "shipping": "ship in 1 day"
+
+}

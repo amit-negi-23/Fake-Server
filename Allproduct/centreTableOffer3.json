@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "centreTableOffer3",
+    "title": "Eco Coffee Table In Frosty White Finish,",
+    "brand": "By A GLOBIA CREATIONS",
+    "price": {
+        "sell": "₹5,784",
+        "mrp": "₹7,481"
+    },
+    "discount": {
+        "price": "₹1,697",
+        "percent": "(23 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/e/c/494x544/eco-coffee-table-in-frosty-white-finish-by-a-globia-creations-eco-coffee-table-in-frosty-white-finis-qphuow.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+    "shipping": "ship in 1 day"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 3,
+    "productId": "barfurnitureOffer3",
+    "title": "SuperNova Metal Bar Trolley In Gold Finish With Wood,",
+    "brand": "By Corsica Designs",
+    "price": {
+        "sell": "₹7,499",
+        "mrp": "₹8,999"
+    },
+    "discount": {
+        "price": "₹1,500",
+        "percent": " (17 % off)"
+    },
+    "rating": "4.5",
+    "image":"https://ii1.pepperfry.com/media/catalog/product/s/u/494x544/supernova-metal-bar-trolley-in-gold-finish-with-wood-supernova-metal-bar-trolley-in-gold-finish-with-mckxsf.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+    "shipping": "Ship in 2 days"
+   
+}

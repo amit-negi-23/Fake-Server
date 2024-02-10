@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "barfurnitureOffer4",
+    "title": "Ian Metal Bar Stool In Gold Colour,",
+    "brand": "By Bohemiana from Pepperfry",
+    "price": {
+        "sell": "₹7,499",
+        "mrp": "₹10,999"
+    },
+    "discount": {
+        "price": "₹3,500 ",
+        "percent": "(32 % off)"
+    },
+    "rating": "4.5",
+    "image":"https://ii1.pepperfry.com/media/catalog/product/i/a/494x544/ian-metal-bar-stool-in-gold-colour-ian-metal-bar-stool-in-gold-colour-j9p7qd.jpg",
+    "category": "Bar Furniture",
+    "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+    "shipping": "Ship in 2 days"
+}

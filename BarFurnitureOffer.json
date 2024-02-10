@@ -1,0 +1,80 @@
+[
+   
+    {
+        "id": 1,
+        "productId": "barfurnitureOffer1",
+        "title": "Bliss Bar Cabinet in Dark Elm Finish",
+        "brand": "Crystal Furnitech",
+        "price": {
+            "sell": "₹11,720",
+            "mrp": "₹17,255"
+        },
+        "discount": {
+            "price": "₹5,535",
+            "percent": "(32% off)"
+        },
+        "rating": "4.5",
+        "image":"https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/bliss-bar-cabinet-in-dark-elm-finish-by-crystal-furnitech-bliss-bar-cabinet-in-dark-elm-finish-by-cr-hth1pw.jpg",
+        "category": "Bar Furniture",
+        "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+        "shipping": "Ship in 2 days"
+    },
+    {
+        "id": 2,
+        "productId": "barfurnitureOffer2",
+        "title": " Indus Leatherette Bar Stool In Dark Gray Colour With Swivel",
+        "brand": "Furniturstation",
+        "price": {
+            "sell": "₹5,487 ",
+            "mrp": "₹10,999"
+        },
+        "discount": {
+            "price": "₹5,512",
+            "percent": "(50% off)"
+        },
+        "rating": "4.5",
+        "image":"https://ii1.pepperfry.com/media/catalog/product/i/n/494x544/indus-leatherette-bar-stool-in-dark-gray-colour-with-swivel-indus-leatherette-bar-stool-in-dark-gray-2pbdl2.jpg",
+        "category": "Bar Furniture",
+        "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+        "shipping": "Ship in 2 days"
+    },
+    {
+        "id": 3,
+        "productId": "barfurnitureOffer3",
+        "title": "SuperNova Metal Bar Trolley In Gold Finish With Wood,",
+        "brand": "By Corsica Designs",
+        "price": {
+            "sell": "₹7,499",
+            "mrp": "₹8,999"
+        },
+        "discount": {
+            "price": "₹1,500",
+            "percent": " (17 % off)"
+        },
+        "rating": "4.5",
+        "image":"https://ii1.pepperfry.com/media/catalog/product/s/u/494x544/supernova-metal-bar-trolley-in-gold-finish-with-wood-supernova-metal-bar-trolley-in-gold-finish-with-mckxsf.jpg",
+        "category": "Bar Furniture",
+        "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+        "shipping": "Ship in 2 days"
+       
+    },
+    {
+        "id": 4,
+        "productId": "barfurnitureOffer4",
+        "title": "Ian Metal Bar Stool In Gold Colour,",
+        "brand": "By Bohemiana from Pepperfry",
+        "price": {
+            "sell": "₹7,499",
+            "mrp": "₹10,999"
+        },
+        "discount": {
+            "price": "₹3,500 ",
+            "percent": "(32 % off)"
+        },
+        "rating": "4.5",
+        "image":"https://ii1.pepperfry.com/media/catalog/product/i/a/494x544/ian-metal-bar-stool-in-gold-colour-ian-metal-bar-stool-in-gold-colour-j9p7qd.jpg",
+        "category": "Bar Furniture",
+        "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+        "shipping": "Ship in 2 days"
+    }
+]

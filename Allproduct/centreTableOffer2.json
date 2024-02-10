@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "centreTableOffer2",
+    "title": "Orca Coffee Table in Black & Cloud Ash Colour",
+    "brand": "By Crystal Furnitech",
+    "price": {
+        "sell": "₹2,634",
+        "mrp": "₹4,299"
+    },
+    "discount": {
+        "price": "₹1,665",
+        "percent": "(39 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/orca-coffee-table-in-black---cloud-ash-colour-orca-coffee-table-in-black---cloud-ash-colour-vp8f8b.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+    "shipping": "ship in 1 day"
+}

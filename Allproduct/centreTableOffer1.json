@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "centreTableOffer1",
+    "title": "Daist Coffee Table In Exotic Teak Finish",
+    "brand": "A GLOBIA CREATIONS",
+    "price": {
+        "sell": "₹6,187 ",
+        "mrp": "₹8,004"
+    },
+    "discount": {
+        "price": "₹1,817",
+        "percent": "(23% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/d/a/494x544/daist-coffee-table-in-exotic-teak-finish-by-a-globia-creations-daist-coffee-table-in-exotic-teak-fin-wspcms.jpg",
+    "category": "centreTable",
+    "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+    "shipping": "ship in 1 day"
+}
