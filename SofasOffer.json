@@ -1,0 +1,75 @@
+[{
+    "id": 1,
+    "productId": "sofa1",
+    "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "10,899",
+        "mrp": "15,999"
+    },
+    "discount": {
+        "price": "₹5,100",
+        "percent": "(32% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bali-fabric-1-seater-sofa-in-grey-colour-bali-fabric-1-seater-sofa-in-grey-colour-vnlayt.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+    "shipping": "Express Shipping in 1 day"
+}, {
+    "id": 2,
+    "productId": "sofa2",
+    "title": "Fidel Fabric 2 Seater Sofa In Slate Grey Colour",
+    "brand": "Casacraft",
+    "price": {
+        "sell": "34,499",
+        "mrp": "46,999"
+    },
+    "discount": {
+        "price": "₹12,500 ",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fidel-2-seater-sofa-in-slate-grey-colour-by-casacraft-fidel-2-seater-sofa-in-slate-grey-colour-by-ca-iucoyk.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹863)",
+    "shipping": "Ships in 7 days"
+},
+{
+    "id": 3,
+    "productId": "sofa3",
+    "title": "Bonito Velvet 3 Seater Sofa in Beige Colour",
+    "brand": "Casacraft",
+    "price": {
+        "sell": "35,499",
+        "mrp": "43,999"
+    },
+    "discount": {
+        "price": "₹8,500 ",
+        "percent": "(19% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/bonito-velvet-3-seater-sofa-in-beige-colour-bonito-velvet-3-seater-sofa-in-beige-colour-7qljfz.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 836 Extra Pepperfry Credits (Worth ₹836)",
+    "shipping": "Express Shipping in 1 day"
+},
+{
+    "id": 4,
+    "productId": "sofa4",
+    "title": "Jack Velvet 2 Seater Sofa Pink Colour",
+    "brand": "Trevi Furniture",
+    "price": {
+        "sell": "18,674",
+        "mrp": "31,528"
+    },
+    "discount": {
+        "price": "₹12,854",
+        "percent": "(41% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/j/a/494x544/jack-velvet-2-seater-sofa-pink-colour-jack-velvet-2-seater-sofa-pink-colour-84voa7.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 440 Extra Pepperfry Credits (Worth ₹440)",
+    "shipping": "Express Shipping in 1 day"
+}]
