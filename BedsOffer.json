@@ -1,0 +1,79 @@
+[
+    {
+    
+    "id": 1,
+    "productId": "bedOffer1",
+    "title": "Stanfield Sheesham Wood King Size Bed In Provincial Teak Finish,",
+    "brand": "By Amberville from Pepperfry",
+    "price": {
+        "sell": "₹56,999",
+        "mrp": "₹64,999"
+    },
+    "discount": {
+        "price": "₹8,000",
+        "percent": "(12 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/stanfield-solid-wood-king-size-bed-in-provincial-teak-finish-by-amberville-stanfield-solid-wood-king-ilohri.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+    "shipping": "Express Shipping in 1 day"
+}, 
+{
+    "id": 2,
+    "productId": "bedOffer2",
+    "title": "Zurndorf Sheesham Wood Single BedProvincial Teak Finish With Box Storage,",
+    "brand": "By Woodsworth from Pepperfry",
+    "price": {
+        "sell": "₹29,999",
+        "mrp": "₹42,999"
+    },
+    "discount": {
+        "price": "₹13,000",
+        "percent": "(30% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/z/y/494x544/zyva-single-bed-with-box-storage-in-provincial-teak-finish-by-woodsworth-zyva-single-bed-with-box-st-luc8do.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹7,500)",
+    "shipping": "Ships in 7 days"
+},
+{
+    "id": 3,
+    "productId": "bedOffer3",
+    "title": "Kosmo Imperial Queen Size Bed Wenge Finish with Drawer Storage",
+    "brand": "Spacewood",
+    "price": {
+        "sell": "₹37,352 ",
+        "mrp": "₹58,249"
+    },
+    "discount": {
+        "price": "₹20,897 ",
+        "percent": "(36% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-imperial-queen-size-bed-in-natural-wenge-finish-with-drawer-storage-kosmo-imperial-queen-size--ziutqg.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 836 Extra Pepperfry Credits (Worth ₹836)",
+    "shipping": "Express Shipping in 1 day"
+
+},
+{
+    "id": 4,
+    "productId": "bedOffer4",
+    "title": "Kosmo Lilly Queen Size Bed in Kingston & Sebastian with Box Storage",
+    "brand": "Spacewood",
+    "price": {
+        "sell": "₹26,820",
+        "mrp": "₹46,032"
+    },
+    "discount": {
+        "price": "₹19,212",
+        "percent": "(42% off)"
+    },
+    "rating": "4.5",
+    "image": "",
+    "category": "Sofas",
+    "extraoffer": "Earn 440 Extra Pepperfry Credits (Worth ₹440)",
+    "shipping": "Express Shipping in 1 day"
+}]

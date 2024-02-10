@@ -1,0 +1,20 @@
+{
+    
+    "id": 1,
+    "productId": "bedOffer1",
+    "title": "Stanfield Sheesham Wood King Size Bed In Provincial Teak Finish,",
+    "brand": "By Amberville from Pepperfry",
+    "price": {
+        "sell": "₹56,999",
+        "mrp": "₹64,999"
+    },
+    "discount": {
+        "price": "₹8,000",
+        "percent": "(12 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/stanfield-solid-wood-king-size-bed-in-provincial-teak-finish-by-amberville-stanfield-solid-wood-king-ilohri.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+    "shipping": "Express Shipping in 1 day"
+}

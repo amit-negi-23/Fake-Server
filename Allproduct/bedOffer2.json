@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "bedOffer2",
+    "title": "Zurndorf Sheesham Wood Single BedProvincial Teak Finish With Box Storage,",
+    "brand": "By Woodsworth from Pepperfry",
+    "price": {
+        "sell": "₹29,999",
+        "mrp": "₹42,999"
+    },
+    "discount": {
+        "price": "₹13,000",
+        "percent": "(30% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/z/y/494x544/zyva-single-bed-with-box-storage-in-provincial-teak-finish-by-woodsworth-zyva-single-bed-with-box-st-luc8do.jpg",
+    "category": "Sofas",
+    "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹7,500)",
+    "shipping": "Ships in 7 days"
+}
