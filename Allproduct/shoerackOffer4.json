@@ -4,11 +4,11 @@
     "title": "Astro Shoe Cabinet in Cold White Finish",
     "brand": "Take Interio",
     "price": {
-        "sell": "₹10,779",
-        "mrp": "₹14,699"
+        "sell": "10,779",
+        "mrp": "14,699"
     },
     "discount": {
-        "price": "₹3,920",
+        "price": "3,920",
         "percent": "(27% off)"
     },
     "rating": "4.5",
