@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "wardrobeOffer2",
+    "title": "Fiona 1 Door Wardrobe in Frosty White Finish,",
+    "brand": "By A GLOBIA CREATIONS",
+    "price": {
+        "sell": "₹12,161",
+        "mrp": "₹21,624"
+    },
+    "discount": {
+        "price": "₹9,463",
+        "percent": "(44 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fiona-engineered-wood-1-door-wardrobe--in-frosty-white-finish-by-a-globia-creations-fiona-engineered-zsipbu.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+    "shipping": "Express Shipping in 1 day"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "wardrobeOffer3",
+    "title": "Tesla 1 Door Wardrobe in Leon Teak Finish,",
+    "brand": "By Neudot",
+    "price": {
+        "sell": "₹9,666",
+        "mrp": "₹17,220"
+    },
+    "discount": {
+        "price": "₹7,554 ",
+        "percent": "(44 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/t/e/494x544/tesla-bookshelf-in-leon-teak-finish-by-neudot-tesla-bookshelf-in-leon-teak-finish-by-neudot-5gwv19.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+    "shipping": "Express Shipping in 1 day"
+}

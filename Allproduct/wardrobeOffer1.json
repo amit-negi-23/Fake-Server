@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "wardrobeOffer1",
+    "title": "Ronald Meg 2 Door Wardrobe in Leon Teak Finish,",
+    "brand": "By Neudot",
+    "price": {
+        "sell": "₹13,110",
+        "mrp": "₹26,598"
+    },
+    "discount": {
+        "price": "₹13,488 ",
+        "percent": "(51 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/r/o/494x544/ronald-meg-2-door-wardrobe-in-leon-teak-finish-ronald-meg-2-door-wardrobe-in-leon-teak-finish-w2zvxd.jpg",
+    "category": "wardrobe",
+    "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+    "shipping": "Express Shipping in 1 day"
+}
