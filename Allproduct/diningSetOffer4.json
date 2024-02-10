@@ -1,0 +1,20 @@
+{
+    
+    "id": 4,
+    "productId": "diningSetOffer4",
+    "title": "Zufa Solid Wood 4 Seater Dining Set In Midas Gold Finish",
+    "brand": "Wakefit",
+    "price": {
+        "sell": "₹19,447 ",
+        "mrp": "₹27,390"
+    },
+    "discount": {
+        "price": "₹7,943 ",
+        "percent": "(29% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/z/u/494x544/zufa-solid-wood-4-seater-dining-set-in-midas-gold-finish-zufa-solid-wood-4-seater-dining-set-in-mida-dqgmr5.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+    "shipping": "Express Shipping in 1 day"
+}

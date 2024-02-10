@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "productId": "diningSetOffer1",
+        "title": " Speyer Sheesham Wood 6 Seater Dining Set In Classic Scratch Resistant Honey Finish",
+        "brand": "Woodsworth from Pepperfry",
+        "price": {
+            "sell": "64,499 ",
+            "mrp": "90,999"
+        },
+        "discount": {
+            "price": "₹26,500 ",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/o/n/494x544/oneill-solid-wood-6-seater-dining-set-in-honey-oak-finish-by-woodsworth-oneill-solid-wood-6-seater-d-s0ls5r.jpg",
+        "category": "dinningSet",
+        "extraoffer": "Earn 1,613 Extra Pepperfry Credits (Worth ₹1,613)",
+        "shipping": "Made To Order, Ships in 11 days"
+    },
+    {
+    
+        "id": 2,
+        "productId": "diningSetOffer2",
+        "title": "Merche Solid Wood 6 Seater Dining Set In Natural Finish,",
+        "brand": "By Casacraft from Pepperfry",
+        "price": {
+            "sell": "₹33,499",
+            "mrp": "₹40,999"
+        },
+        "discount": {
+            "price": "₹7,500 ",
+            "percent": "(18 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/m/e/494x544/merche-solid-wood-6-seater-dining-set-in-natural-finish-merche-solid-wood-6-seater-dining-set-in-nat-0o9cht.jpg",
+        "category": "dinningSet",
+        "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+    
+        "id": 3,
+        "productId": "diningSetOffer3",
+        "title": "Jenna Metal 6 Seater Dining Set in Black Finish,",
+        "brand": "By Durian",
+        "price": {
+            "sell": "₹41,400",
+            "mrp": "₹69,000"
+        },
+        "discount": {
+            "price": "₹27,600 ",
+            "percent": "(40 % off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/j/e/494x544/jenna-6-seater-dining-set-in-black-finish-by-durian-jenna-6-seater-dining-set-in-black-finish-by-dur-gusbep.jpg",
+        "category": "dinningSet",
+        "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+    
+        "id": 4,
+        "productId": "diningSetOffer4",
+        "title": "Zufa Solid Wood 4 Seater Dining Set In Midas Gold Finish",
+        "brand": "Wakefit",
+        "price": {
+            "sell": "₹19,447 ",
+            "mrp": "₹27,390"
+        },
+        "discount": {
+            "price": "₹7,943 ",
+            "percent": "(29% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/z/u/494x544/zufa-solid-wood-4-seater-dining-set-in-midas-gold-finish-zufa-solid-wood-4-seater-dining-set-in-mida-dqgmr5.jpg",
+        "category": "dinningSet",
+        "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+        "shipping": "Express Shipping in 1 day"
+    }
+]

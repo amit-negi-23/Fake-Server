@@ -1,0 +1,20 @@
+{
+    
+    "id": 2,
+    "productId": "diningSetOffer2",
+    "title": "Merche Solid Wood 6 Seater Dining Set In Natural Finish,",
+    "brand": "By Casacraft from Pepperfry",
+    "price": {
+        "sell": "₹33,499",
+        "mrp": "₹40,999"
+    },
+    "discount": {
+        "price": "₹7,500 ",
+        "percent": "(18 % off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/m/e/494x544/merche-solid-wood-6-seater-dining-set-in-natural-finish-merche-solid-wood-6-seater-dining-set-in-nat-0o9cht.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+    "shipping": "Express Shipping in 1 day"
+}

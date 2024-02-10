@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "diningSetOffer1",
+    "title": " Speyer Sheesham Wood 6 Seater Dining Set In Classic Scratch Resistant Honey Finish",
+    "brand": "Woodsworth from Pepperfry",
+    "price": {
+        "sell": "64,499 ",
+        "mrp": "90,999"
+    },
+    "discount": {
+        "price": "₹26,500 ",
+        "percent": "(29% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/o/n/494x544/oneill-solid-wood-6-seater-dining-set-in-honey-oak-finish-by-woodsworth-oneill-solid-wood-6-seater-d-s0ls5r.jpg",
+    "category": "dinningSet",
+    "extraoffer": "Earn 1,613 Extra Pepperfry Credits (Worth ₹1,613)",
+    "shipping": "Made To Order, Ships in 11 days"
+}
