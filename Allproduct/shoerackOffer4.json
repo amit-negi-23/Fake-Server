@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "shoerackOffer4",
+    "title": "Astro Shoe Cabinet in Cold White Finish",
+    "brand": "Take Interio",
+    "price": {
+        "sell": "₹10,779",
+        "mrp": "₹14,699"
+    },
+    "discount": {
+        "price": "₹3,920",
+        "percent": "(27% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/s/494x544/astro-shoe-rack-in-cold-white-finish-astro-shoe-rack-in-cold-white-finish-xmbcrk.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 325 Extra Pepperfry Credits (Worth ₹325)",
+    "shipping": "Express Shipping in 1 day"
+}

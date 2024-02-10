@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "shoerackOffer3",
+    "title": "Ardor 2 Door Shoe Cabinet in Walnut White Finish",
+    "brand": "Nilkamal",
+    "price": {
+        "sell": "₹7,425",
+        "mrp": "₹16,900"
+    },
+    "discount": {
+        "price": "₹9,475",
+        "percent": "(56% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/ardor-shoe-cabinet-in-walnut--white-finish-ardor-shoe-cabinet-in-walnut--white-finish-jyag1e.jpg",
+    "category": "shoerack",
+    "extraoffer": "Earn 325 Extra Pepperfry Credits (Worth ₹325)",
+    "shipping": "Express Shipping in 1 day"
+}
