@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "productId": "officeFurnitureOffer3",
+    "title": "Fortuna Leatherette Executive Chair In Brown Colour",
+    "brand": "Ettorez",
+    "price": {
+        "sell": "₹29,499",
+        "mrp": " ₹40,099"
+    },
+    "discount": {
+        "price": "₹10,600",
+        "percent": "(26% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/fortuna-leatherette-executive-chair-in-brown-colour-fortuna-leatherette-executive-chair-in-brown-col-fcs0bx.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+    "shipping": "Express Shipping in 2 days"
+}

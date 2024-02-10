@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "productId": "officeFurnitureOffer1",
+        "title": " High Leatherette Executive Chair With Audjustable Armrest in Tan Brown Colour",
+        "brand": "Furniturstation",
+        "price": {
+            "sell": "₹10,387",
+            "mrp": "₹19,999"
+        },
+        "discount": {
+            "price": "₹9,612",
+            "percent": "(48% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/h/i/494x544/high-back-executive-office-chair-in-brown-colour-by-furniturstation-high-back-executive-office-chair-q8go7l.jpg",
+        "category": "Office Furniture",
+        "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+        "shipping": "Express Shipping in 2 days"
+    },
+    {
+        "id": 2,
+        "productId": "officeFurnitureOffer2",
+        "title": "Vienna Leatherette Executive Chair in Brown Colour",
+        "brand": "Green Soul",
+        "price": {
+            "sell": "₹7,007",
+            "mrp": "₹15,430"
+        },
+        "discount": {
+            "price": "₹8,423",
+            "percent": "(55% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vienna-leatherette-executive-chair-in-brown-colour-vienna-leatherette-executive-chair-in-brown-colou-wdbyzg.jpg",
+        "category": "Office Furniture",
+        "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+        "shipping": "Express Shipping in 1 day"
+    },
+    {
+        "id": 3,
+        "productId": "officeFurnitureOffer3",
+        "title": "Fortuna Leatherette Executive Chair In Brown Colour",
+        "brand": "Ettorez",
+        "price": {
+            "sell": "₹29,499",
+            "mrp": " ₹40,099"
+        },
+        "discount": {
+            "price": "₹10,600",
+            "percent": "(26% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/fortuna-leatherette-executive-chair-in-brown-colour-fortuna-leatherette-executive-chair-in-brown-col-fcs0bx.jpg",
+        "category": "Office Furniture",
+        "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+        "shipping": "Express Shipping in 2 days"
+    },
+    {
+        "id": 4,
+        "productId": "officeFurnitureOffer4",
+        "title": "Vienna High Back Leatherette Executive Chair in Black Colour",
+        "brand": "Green Soul",
+        "price": {
+            "sell": "₹7,670",
+            "mrp": "₹16,725"
+        },
+        "discount": {
+            "price": "₹9,055",
+            "percent": "(54% off)"
+        },
+        "rating": "4.5",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vienna-high-back-leatherette-executive-chair-in-black-colour-vienna-high-back-leatherette-executive--udwt8n.jpg",
+        "category": "Office Furniture",
+        "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+        "shipping": "Express Shipping in 1 day"
+    }
+]

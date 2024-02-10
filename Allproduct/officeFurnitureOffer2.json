@@ -1,0 +1,19 @@
+{
+    "id": 2,
+    "productId": "officeFurnitureOffer2",
+    "title": "Vienna Leatherette Executive Chair in Brown Colour",
+    "brand": "Green Soul",
+    "price": {
+        "sell": "₹7,007",
+        "mrp": "₹15,430"
+    },
+    "discount": {
+        "price": "₹8,423",
+        "percent": "(55% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vienna-leatherette-executive-chair-in-brown-colour-vienna-leatherette-executive-chair-in-brown-colou-wdbyzg.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+    "shipping": "Express Shipping in 1 day"
+}

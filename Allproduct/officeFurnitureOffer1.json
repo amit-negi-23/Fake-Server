@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "productId": "officeFurnitureOffer1",
+    "title": " High Leatherette Executive Chair With Audjustable Armrest in Tan Brown Colour",
+    "brand": "Furniturstation",
+    "price": {
+        "sell": "₹10,387",
+        "mrp": "₹19,999"
+    },
+    "discount": {
+        "price": "₹9,612",
+        "percent": "(48% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/h/i/494x544/high-back-executive-office-chair-in-brown-colour-by-furniturstation-high-back-executive-office-chair-q8go7l.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+    "shipping": "Express Shipping in 2 days"
+}

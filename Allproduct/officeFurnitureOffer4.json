@@ -1,0 +1,19 @@
+{
+    "id": 4,
+    "productId": "officeFurnitureOffer4",
+    "title": "Vienna High Back Leatherette Executive Chair in Black Colour",
+    "brand": "Green Soul",
+    "price": {
+        "sell": "₹7,670",
+        "mrp": "₹16,725"
+    },
+    "discount": {
+        "price": "₹9,055",
+        "percent": "(54% off)"
+    },
+    "rating": "4.5",
+    "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vienna-high-back-leatherette-executive-chair-in-black-colour-vienna-high-back-leatherette-executive--udwt8n.jpg",
+    "category": "Office Furniture",
+    "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+    "shipping": "Express Shipping in 1 day"
+}
