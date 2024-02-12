@@ -85,24 +85,30 @@
             "pathname": "Beds/bed6"
         },
         {
-            "image": "https://ii1.pepperfry.com/assets/c3a49a64-4e1b-4763-9a8f-43ef47b2a9c4.jpg",
-            "product": "Ergonomic Chairs"
+            "image": "https://ii1.pepperfry.com/media/catalog/product/n/e/494x544/new-york-high-back-ergonomic-chair-with-headrest-in-black-colour-by-green-soul-new-york-high-back-er-da3xje.jpg",
+            "product": "Ergonomic Chairs",
+            "pathname": "OfficeFurniture/officeFurniture27"
         },
         {
-            "image": "https://ii1.pepperfry.com/assets/3e0ebb48-8087-476c-8e6b-4df370effe95.jpg",
-            "product": "Velvet 3 Seater Sofas"
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/bonito-velvet-3-seater-sofa-in-beige-colour-bonito-velvet-3-seater-sofa-in-beige-colour-7qljfz.jpg",
+            "product": "Velvet 3 Seater Sofas",
+            "pathname": "Sofas/sofa3"
+
         },
         {
-            "image": "https://ii1.pepperfry.com/assets/6aa38664-ae0f-479b-ba2d-851aa5a8f13f.jpg",
-            "product": "Writing Tables"
+            "image": "https://ii1.pepperfry.com/media/catalog/product/w/a/494x544/warlick-solid-wood-desk-table-in-rustic-teak-finish-by-woodsworth-warlick-solid-wood-desk-table-in-r-n5asqr.jpg",
+            "product": "Writing Tables",
+            "pathname":"StudyTables/studyTable19"
         },
         {
-            "image": "https://ii1.pepperfry.com/assets/a5e9e4c4-0588-489e-94c9-db06b34bf520.jpg",
-            "product": "Contemporary Coffee Table"
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kiosk-coffee-table-in-frosty-white-colour-by-a-globia-creations-kiosk-coffee-table-in-frosty-white-c-rzgbhh.jpg",
+            "product": "Contemporary Coffee Table",
+            "pathname": "CentreTables/centreTable4"
         },
         {
-            "image": "https://ii1.pepperfry.com/assets/ee2b7bc8-1fb1-4a64-bc92-299a02476986.jpg",
-            "product": "6 Seater Dining Sets"
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alice-6-seater-dining-set-in-cherry-finish-with-bench-alice-6-seater-dining-set-in-cherry-finish-wit-beeond.jpg",
+            "product": "6 Seater Dining Sets",
+            "pathname": "DiningSets/diningSet8"
         }
     ],
     "sofas": [
